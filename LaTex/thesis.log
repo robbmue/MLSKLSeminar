@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  5 FEB 2020 19:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  6 FEB 2020 00:14
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1639,7 +1639,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png Graphic file (ty
 pe png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.p
-ng  used on input line 132.
+ng  used on input line 133.
 (pdftex.def)             Requested size: 398.33858pt x 258.82004pt.
  [13] [14 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png>]
 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png, id=266, 715.6737
@@ -1648,7 +1648,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png Graphic file
  (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
-1).png  used on input line 152.
+1).png  used on input line 153.
 (pdftex.def)             Requested size: 398.33858pt x 48.60521pt.
 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png, id=267, 582.175p
 t x 108.405pt>
@@ -1656,7 +1656,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png Graphic file
  (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
-2).png  used on input line 157.
+2).png  used on input line 158.
 (pdftex.def)             Requested size: 398.33858pt x 74.17426pt.
 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png, id=268, 587.1937
 6pt x 171.64125pt>
@@ -1664,7 +1664,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png Graphic file
  (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
-3).png  used on input line 164.
+3).png  used on input line 165.
 (pdftex.def)             Requested size: 398.33858pt x 116.43687pt.
 
 [15 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png> <C:/Users/Ro
@@ -1675,7 +1675,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png Graphic file (ty
 pe png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.p
-ng  used on input line 180.
+ng  used on input line 181.
 (pdftex.def)             Requested size: 398.33858pt x 246.30174pt.
  [16 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png>]
 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png, id=281, 547.0437
@@ -1684,7 +1684,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png Graphic file
  (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
-4).png  used on input line 201.
+4).png  used on input line 202.
 (pdftex.def)             Requested size: 398.33858pt x 25.58179pt.
 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png, id=282, 704.6325
 pt x 17.06375pt>
@@ -1692,7 +1692,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png Graphic file
  (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
-5).png  used on input line 206.
+5).png  used on input line 207.
 (pdftex.def)             Requested size: 398.33858pt x 9.64622pt.
 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png, id=283, 445.665p
 t x 18.0675pt>
@@ -1700,7 +1700,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png Graphic file
  (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
-6).png  used on input line 207.
+6).png  used on input line 208.
 (pdftex.def)             Requested size: 278.83578pt x 11.30428pt.
 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png, id=284, 432.6162
 6pt x 96.36pt>
@@ -1708,20 +1708,20 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png Graphic file
  (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
-7).png  used on input line 213.
+7).png  used on input line 214.
 (pdftex.def)             Requested size: 278.83578pt x 62.1098pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--215
+Underfull \hbox (badness 10000) in paragraph at lines 194--216
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--215
+Underfull \hbox (badness 10000) in paragraph at lines 194--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--215
+Underfull \hbox (badness 10000) in paragraph at lines 194--216
 
  []
 
@@ -1729,12 +1729,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--215
 obin/Downloads/LaTex/Bilder/pasted image 0 (4).png> <C:/Users/Robin/Downloads/L
 aTex/Bilder/pasted image 0 (5).png> <C:/Users/Robin/Downloads/LaTex/Bilder/past
 ed image 0 (6).png>]
-Underfull \hbox (badness 10000) in paragraph at lines 216--220
+Underfull \hbox (badness 10000) in paragraph at lines 217--221
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--235
+Underfull \hbox (badness 10000) in paragraph at lines 228--236
 
  []
 
@@ -1830,7 +1830,7 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Here is how much of TeX's memory you used:
  38366 strings out of 492484
  722334 string characters out of 3123430
- 1068255 words of memory out of 3000000
+ 1068253 words of memory out of 3000000
  41928 multiletter control sequences out of 15000+200000
  577523 words of font info for 77 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1853,7 +1853,7 @@ hvr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on thesis.pdf (34 pages, 1020252 bytes).
+Output written on thesis.pdf (34 pages, 1020304 bytes).
 PDF statistics:
  518 PDF objects out of 1000 (max. 8388607)
  98 named destinations out of 1000 (max. 500000)
