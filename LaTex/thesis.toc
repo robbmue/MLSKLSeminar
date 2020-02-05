@@ -26,19 +26,19 @@
 \contentsline {section}{\numberline {7.1}Vorbereitung der Daten 1}{12}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Visualisierung der Daten}{13}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Vorbereitung der Daten 2}{14}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Durchf\IeC {\"u}hurng Linear Regression}{14}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Durchf\IeC {\"u}hrung Decision Tree Regression \& Random Forest Regression}{15}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Cross-Validation}{15}{section.7.6}%
+\contentsline {section}{\numberline {7.4}Durchf\IeC {\"u}hurng Linear Regression}{15}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Durchf\IeC {\"u}hrung Decision Tree Regression \& Random Forest Regression}{16}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Cross-Validation}{16}{section.7.6}%
 \contentsline {section}{\numberline {7.7}Erster Vergleich}{16}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Evaluation}{16}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Vergleich mit Classification}{17}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Projektauswertung}{18}{section.7.10}%
-\contentsline {chapter}{\numberline {8}Res\IeC {\"u}mee}{20}{chapter.8}%
-\contentsline {chapter}{\numberline {}Literaturverzeichnis}{22}{section*.7}%
-\contentsline {chapter}{\numberline {A}Anhang A}{23}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Regression Diagramm}{23}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Grafik Random Forest}{24}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Attribute des Datensatzes}{24}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Histogramm}{25}{section.A.4}%
-\contentsline {section}{\numberline {A.5}Verteilung Income}{25}{section.A.5}%
-\contentsline {section}{\numberline {A.6}R\IeC {\"a}umliche Verteilung der Datens\IeC {\"a}tze}{26}{section.A.6}%
+\contentsline {section}{\numberline {7.8}Evaluation}{17}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Vergleich mit Classification}{18}{section.7.9}%
+\contentsline {section}{\numberline {7.10}Projektauswertung}{19}{section.7.10}%
+\contentsline {chapter}{\numberline {8}Res\IeC {\"u}mee}{21}{chapter.8}%
+\contentsline {chapter}{\numberline {}Literaturverzeichnis}{23}{section*.7}%
+\contentsline {chapter}{\numberline {A}Anhang A}{24}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Regression Diagramm}{24}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Grafik Random Forest}{25}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Attribute des Datensatzes}{25}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Histogramm}{26}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Verteilung Income}{26}{section.A.5}%
+\contentsline {section}{\numberline {A.6}R\IeC {\"a}umliche Verteilung der Datens\IeC {\"a}tze}{27}{section.A.6}%
