@@ -23,7 +23,7 @@ Ziel des SVM Algorithmus ist es, eine Hyperebene(Ebene mit n-1 Dimensionen) in e
 
 \subsection{Random Forest Classifier}
 \label{sec:RFC}
-Bei diesem Algorithmus  werden aus dem Trainingsset zufällig Teilmengen genommen,mit denen verschiedene Modelle trainiert werden.\cite[p.~256]{MB} Diese verschiedenen Modelle werden durch Decisiontrees trainiert. Später kommt es durch ein “Mehrheitsvotum” zu einer finalen Einordnung der Klasse. \cite{MED} \hyperlink{einführungMachineLearning}{[Grafik Random Forest]}
+Bei diesem Algorithmus  werden aus dem Trainingsset zufällig Teilmengen genommen,mit denen dann mehrere Decisiontrees trainiert werden. Daher auch der Name "Random Forest", da dieser aus vielen verschiedenen Bäumen besteht\cite[p.~256]{MB}. Bekommt dieser Algorithmus einen Input gibt er ihn an jeden einzelnen Tree weiter, jeder für sich fällt dann unabhängig seine eigene Entscheidung. Später kommt es durch ein “Mehrheitsvotum” der einzelnen Trees zu einer finalen Einordnung der Klasse, wodurch dieser Algorithmus deutlich weniger anfällig für Overfitting ist als ein einzelner Decisiontree\cite{MED}. \hyperlink{einführungMachineLearning}{[Grafik Random Forest]}
 
 \section{Regression}
 \label{sec:regression}
@@ -82,8 +82,8 @@ Die übliche Methode ist der “Root Mean Spuare Error”. Diese gibt einen Ausb
 \label{chap:sciKitLearn}
 Scikit-Learn ist ein Projekt, welches 2007 von David Cournapeau gestartet wurde.\cite{SKL} Ziel dieses Projektes ist es Machine-Learning für jeden zu vereinfachen, indem sie verschiedene Python-Libraries erstellen. Da die Algorithmen des Machine-Learning nur durch sehr komplex Berechnungen zu realisieren sind, stellt scikit verschiedene Libraries zur verfügung, welche diese komplexen Berechnungen für den Programmierer übernimmt, so dass oftmals nur wenige Funktionsaufrufe nötig sind, um eine KI zu erstellen. Aber scikit besteht nicht nur aus Funktionen, welche komplexe Berechnungen durchführen, es gibt auch Funktionen, wie z.B. train\_est\_split(), welche festlegt, welche Daten zum trainieren und welche zum Testen genommen werden.
 
-\chapter{Projekteinführung}
-\label{chap:projekteinführung}
+\chapter{Beispielprojekt}
+\label{chap:Beispielprojekt}
 
 \section{Projektvorstellung}
 \label{sec:projektvorstellung}
@@ -232,7 +232,7 @@ Jeder Ansatz hat seine Daseinsberechtigung, und dass einige Algorithmen besser a
 Die ersten und wichtigsten Schritte bei einem Machine-Learning Projekt sollten unsere Meinung also folgende sein:
 \begin{itemize}
 \item Ziel genau definieren \newline
-In unserem Beispiel: Sollen genaue Preise geschätzt werden? Sollen Preisklassen gebildet werden?
+Im Beispiel: Sollen genaue Preise geschätzt werden? Sollen Preisklassen gebildet werden?
 \item Visualisierung der Daten \newline
 Hier können schon erste wichtige Erkenntnisse gesammelt werden, die ohne die Veranschaulichung vielleicht übersehen werden können.
 \item Analyse der Daten \newline

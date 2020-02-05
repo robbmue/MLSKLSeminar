@@ -10,7 +10,7 @@
 \contentsline {section}{\numberline {4.2}Regression}{5}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Lineare Regression}{5}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Decisiontree Regression}{5}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Random Forest Regression}{5}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.3}Random Forest Regression}{6}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}Clustering}{6}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}K-Means}{6}{subsection.4.3.1}%
 \contentsline {section}{\numberline {4.4}Overfitting/Underfitting}{6}{section.4.4}%
@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {4.4.2}Underfitting}{7}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}Performance Measure}{7}{section.4.5}%
 \contentsline {chapter}{\numberline {5}SciKit-Learn}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Projekteinf\IeC {\"u}hrung}{10}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Beispielprojekt}{10}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Projektvorstellung}{10}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Datensatz}{10}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Vorbereiten der Entwicklungsumgebung}{11}{section.6.3}%

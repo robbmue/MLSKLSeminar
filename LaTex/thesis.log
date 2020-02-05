@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  5 FEB 2020 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  5 FEB 2020 19:09
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1588,7 +1588,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 [4
 
 ] [5] [6]
-<C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG, id=214, 838.13126p
+<C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG, id=213, 838.13126p
 t x 288.07625pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG Graphic file (
 type png)
@@ -1596,7 +1596,7 @@ type png)
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting
 .PNG  used on input line 70.
 (pdftex.def)             Requested size: 398.33858pt x 136.91235pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG, id=216, 221.628pt x 67.4
+<C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG, id=215, 221.628pt x 67.4
 52pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG Graphic file (type p
 ng)
@@ -1633,7 +1633,7 @@ chapter 7.
 [12
 
 ]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png, id=256, 613.29124pt 
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png, id=255, 613.29124pt 
 x 398.48875pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png Graphic file (ty
 pe png)
@@ -1642,7 +1642,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.p
 ng  used on input line 130.
 (pdftex.def)             Requested size: 398.33858pt x 258.82004pt.
  [13 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png, id=261, 715.6737
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png, id=260, 715.6737
 5pt x 87.32625pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png Graphic file
  (type png)
@@ -1650,7 +1650,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 1).png  used on input line 150.
 (pdftex.def)             Requested size: 398.33858pt x 48.60521pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png, id=262, 582.175p
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png, id=261, 582.175p
 t x 108.405pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png Graphic file
  (type png)
@@ -1659,7 +1659,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 2).png  used on input line 155.
 (pdftex.def)             Requested size: 398.33858pt x 74.17426pt.
  [14 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png, id=271, 587.1937
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png, id=270, 587.1937
 6pt x 171.64125pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png Graphic file
  (type png)
@@ -1667,7 +1667,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 3).png  used on input line 162.
 (pdftex.def)             Requested size: 398.33858pt x 116.43687pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png, id=272, 1204.5pt x 7
+<C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png, id=271, 1204.5pt x 7
 44.7825pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png Graphic file (ty
 pe png)
@@ -1678,7 +1678,7 @@ ng  used on input line 178.
  [15 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png> <C:/Users/R
 obin/Downloads/LaTex/Bilder/pasted image 0 (3).png>] [16 <C:/Users/Robin/Downlo
 ads/LaTex/Bilder/imageLikeEmbed.png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png, id=282, 547.0437
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png, id=281, 547.0437
 5pt x 35.13126pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png Graphic file
  (type png)
@@ -1686,7 +1686,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 4).png  used on input line 199.
 (pdftex.def)             Requested size: 398.33858pt x 25.58179pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png, id=283, 704.6325
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png, id=282, 704.6325
 pt x 17.06375pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png Graphic file
  (type png)
@@ -1694,7 +1694,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 5).png  used on input line 204.
 (pdftex.def)             Requested size: 398.33858pt x 9.64622pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png, id=284, 445.665p
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png, id=283, 445.665p
 t x 18.0675pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png Graphic file
  (type png)
@@ -1702,7 +1702,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 6).png  used on input line 205.
 (pdftex.def)             Requested size: 278.83578pt x 11.30428pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png, id=285, 432.6162
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png, id=284, 432.6162
 6pt x 96.36pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png Graphic file
  (type png)
@@ -1757,7 +1757,7 @@ illiamkoehrsen /
  (misc/appendix.tex
 chapter A.
 <C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_line.pn
-g, id=319, 642.4pt x 481.8pt>
+g, id=318, 642.4pt x 481.8pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_li
 ne.png Graphic file (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_lin
@@ -1765,7 +1765,7 @@ e.png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning
 _regression_with_line.png  used on input line 6.
 (pdftex.def)             Requested size: 398.33858pt x 298.76436pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png, id=320, 59
+<C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png, id=319, 59
 4.22pt x 445.665pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png Graphi
 c file (type png)
@@ -1778,7 +1778,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD7
 
  <C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_line.p
 ng>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png, id=325, 378.4137
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png, id=324, 378.4137
 6pt x 235.88126pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png Graphic file
  (type png)
@@ -1786,7 +1786,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 8).png  used on input line 14.
 (pdftex.def)             Requested size: 378.41283pt x 235.88068pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png, id=326, 1212.53p
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png, id=325, 1212.53p
 t x 872.25874pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png Graphic file
  (type png)
@@ -1796,7 +1796,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 (pdftex.def)             Requested size: 398.33858pt x 286.55524pt.
  [24 <C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png> <C:/U
 sers/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png, id=332, 395.477
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png, id=331, 395.477
 5pt x 252.945pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png Graphic fil
 e (type png)
@@ -1804,7 +1804,7 @@ e (type png)
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 10).png  used on input line 22.
 (pdftex.def)             Requested size: 398.33858pt x 254.7777pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png, id=333, 395.477
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png, id=332, 395.477
 5pt x 264.99pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png Graphic fil
 e (type png)
@@ -1827,10 +1827,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
  )
 (\end occurred when \ifdefined on line 32 was incomplete) 
 Here is how much of TeX's memory you used:
- 38358 strings out of 492484
- 722236 string characters out of 3123430
+ 38365 strings out of 492484
+ 722327 string characters out of 3123430
  1068255 words of memory out of 3000000
- 41921 multiletter control sequences out of 15000+200000
+ 41928 multiletter control sequences out of 15000+200000
  577523 words of font info for 77 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,11n,93p,10103b,600s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1852,9 +1852,9 @@ hvr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on thesis.pdf (33 pages, 1018188 bytes).
+Output written on thesis.pdf (33 pages, 1019057 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
+ 514 PDF objects out of 1000 (max. 8388607)
  97 named destinations out of 1000 (max. 500000)
  563 words of extra memory for PDF output out of 10000 (max. 10000000)
 
