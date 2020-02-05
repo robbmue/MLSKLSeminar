@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.3)  5 FEB 2020 22:08
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  5 FEB 2020 19:31
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1275,9 +1279,16 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 \c@theorem=\count326
 \c@definition=\count327
 \@float@every@pseudocode=\toks54
+<<<<<<< HEAD
 \c@pseudocode=\count328
 ) (preamble/macros.tex)
 No file thesis.aux.
+=======
+\c@pseudocode=\count327
+) (preamble/macros.tex) (thesis.aux (misc/affirmation.aux) (misc/abstract.aux)
+(misc/tables.aux) (chapter/chapter1.aux) (chapter/chapter2.aux)
+(misc/appendix.aux))
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -1473,7 +1484,11 @@ Overfull \hbox (474.83302pt too wide) in paragraph at lines 56--57
 
 
 
+<<<<<<< HEAD
 {C:/Users/PitAu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/..
+=======
+{C:/Users/Robin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/..
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 /ostfalia/Ostfalia_LS_RGB_klein.jpg> <./figure/../ostfalia/Reiter_Wolfen_RGB_17
 4mm.jpg> <./ostfalia/Reiter_szsudwob_RGB_174mm.jpg>])
 \openout2 = `misc/affirmation.aux'.
@@ -1552,10 +1567,33 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 
 
 
+<<<<<<< HEAD
 ]) [4]
+=======
+]) [3]
+\openout2 = `misc/tables.aux'.
+
+ (misc/tables.tex (thesis.toc [4
+
+
+
+])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+ [5] (thesis.lof)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+) [6
+
+
+]
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 \openout2 = `chapter/chapter1.aux'.
 
- (chapter/chapter1.tex
+
+(chapter/chapter1.tex
 chapter 1.
 
 Class scrreprt Warning: \float@addtolists detected!
@@ -1601,6 +1639,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
+<<<<<<< HEAD
 <C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/sBdyby6FyPckxbim
 KufRD4Q.png, id=75, 241.90375pt x 75.28125pt>
 File: C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/sBdyby6FyPc
@@ -1609,6 +1648,15 @@ kxbimKufRD4Q.png Graphic file (type png)
 xbimKufRD4Q.png>
 Package pdftex.def Info: C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex
 /Bilder/sBdyby6FyPckxbimKufRD4Q.png  used on input line 7.
+=======
+<C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png, id=170, 241
+.90375pt x 75.28125pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png Graphic
+ file (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbim
+KufRD4Q.png  used on input line 6.
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 (pdftex.def)             Requested size: 241.90315pt x 75.28105pt.
 
 Package natbib Warning: Citation `WML' on page 3 undefined on input line 8.
@@ -1634,12 +1682,25 @@ mKufRD4Q.png>] [4 <C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilde
 r/sZFI1L7gymY3C_ipjtqSvrg.png>]
 chapter 4.
 
+<<<<<<< HEAD
 Package natbib Warning: Citation `SKL' on page 5 undefined on input line 22.
+=======
+<C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png, id=172, 241
+.90375pt x 75.28125pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png Graphic
+ file (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ip
+jtqSvrg.png  used on input line 9.
+(pdftex.def)             Requested size: 241.90315pt x 75.28105pt.
+[3
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 
 
 Package natbib Warning: Citation `WML' on page 5 undefined on input line 22.
 
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+<<<<<<< HEAD
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 24.
 
 Package natbib Warning: Citation `WML' on page 5 undefined on input line 26.
@@ -1696,6 +1757,27 @@ PNG Graphic file (type png)
 NG>
 Package pdftex.def Info: C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex
 /Bilder/Berechnung.PNG  used on input line 86.
+=======
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 20.
+[4
+
+] [5] [6]
+<C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG, id=213, 838.13126p
+t x 288.07625pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG Graphic file (
+type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting
+.PNG  used on input line 70.
+(pdftex.def)             Requested size: 398.33858pt x 136.91235pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG, id=215, 221.628pt x 67.4
+52pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG Graphic file (type p
+ng)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG  
+used on input line 78.
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 (pdftex.def)             Requested size: 221.62746pt x 67.45183pt.
 [8 <C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/OverUnderfitt
 ing.PNG>] [9 <C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/Ber
@@ -1728,6 +1810,7 @@ Package natbib Warning: Citation `DATA' on page 13 undefined on input line 127.
 [13
 
 ]
+<<<<<<< HEAD
 <C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0.p
 ng, id=168, 613.29124pt x 398.48875pt>
 File: C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted imag
@@ -1826,12 +1909,128 @@ chapter 8.
 [22
 
 ]) [23] (thesis.bbl
+=======
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png, id=255, 613.29124pt 
+x 398.48875pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png Graphic file (ty
+pe png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.p
+ng  used on input line 132.
+(pdftex.def)             Requested size: 398.33858pt x 258.82004pt.
+ [13] [14 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png>]
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png, id=266, 715.6737
+5pt x 87.32625pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+1).png  used on input line 152.
+(pdftex.def)             Requested size: 398.33858pt x 48.60521pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png, id=267, 582.175p
+t x 108.405pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+2).png  used on input line 157.
+(pdftex.def)             Requested size: 398.33858pt x 74.17426pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png, id=268, 587.1937
+6pt x 171.64125pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+3).png  used on input line 164.
+(pdftex.def)             Requested size: 398.33858pt x 116.43687pt.
+
+[15 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png> <C:/Users/Ro
+bin/Downloads/LaTex/Bilder/pasted image 0 (2).png>]
+<C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png, id=275, 1204.5pt x 7
+44.7825pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png Graphic file (ty
+pe png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.p
+ng  used on input line 180.
+(pdftex.def)             Requested size: 398.33858pt x 246.30174pt.
+ [16 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png>]
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png, id=281, 547.0437
+5pt x 35.13126pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+4).png  used on input line 201.
+(pdftex.def)             Requested size: 398.33858pt x 25.58179pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png, id=282, 704.6325
+pt x 17.06375pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+5).png  used on input line 206.
+(pdftex.def)             Requested size: 398.33858pt x 9.64622pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png, id=283, 445.665p
+t x 18.0675pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+6).png  used on input line 207.
+(pdftex.def)             Requested size: 278.83578pt x 11.30428pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png, id=284, 432.6162
+6pt x 96.36pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+7).png  used on input line 213.
+(pdftex.def)             Requested size: 278.83578pt x 62.1098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--215
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--215
+
+ []
+
+[17 <C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png>] [18 <C:/Users/R
+obin/Downloads/LaTex/Bilder/pasted image 0 (4).png> <C:/Users/Robin/Downloads/L
+aTex/Bilder/pasted image 0 (5).png> <C:/Users/Robin/Downloads/LaTex/Bilder/past
+ed image 0 (6).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 216--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--235
+
+ []
+
+[19 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png>] [20]
+chapter 8.
+[21
+
+]) [22] (thesis.bbl
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 Underfull \hbox (badness 10000) in paragraph at lines 39--42
 []\T1/ptm/m/n/12 ``Medium ran-dom fo-rest,'' [][]$https : / / medium . com / @w
 illiamkoehrsen /
  []
 
+<<<<<<< HEAD
 ) [24
+=======
+) [23
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 
 
 
@@ -1840,6 +2039,7 @@ illiamkoehrsen /
 
  (misc/appendix.tex
 chapter A.
+<<<<<<< HEAD
 <C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/machine_learning
 _regression_with_line.png, id=263, 642.4pt x 481.8pt>
 File: C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/machine_lea
@@ -1920,6 +2120,74 @@ Package natbib Warning: Citation(s) may have changed.
 (misc/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
+=======
+<C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_line.pn
+g, id=322, 642.4pt x 481.8pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_li
+ne.png Graphic file (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_lin
+e.png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning
+_regression_with_line.png  used on input line 6.
+(pdftex.def)             Requested size: 398.33858pt x 298.76436pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png, id=323, 59
+4.22pt x 445.665pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png Graphi
+c file (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD7
+9-F1Cqkw.png  used on input line 10.
+(pdftex.def)             Requested size: 398.33858pt x 298.764pt.
+[24
+
+
+ <C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_line.p
+ng>]
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png, id=329, 378.4137
+6pt x 235.88126pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+8).png  used on input line 14.
+(pdftex.def)             Requested size: 378.41283pt x 235.88068pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png, id=330, 1212.53p
+t x 872.25874pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png Graphic file
+ (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+9).png  used on input line 18.
+(pdftex.def)             Requested size: 398.33858pt x 286.55524pt.
+ [25 <C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png> <C:/U
+sers/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png>]
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png, id=335, 395.477
+5pt x 252.945pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png Graphic fil
+e (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+10).png  used on input line 22.
+(pdftex.def)             Requested size: 398.33858pt x 254.7777pt.
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png, id=336, 395.477
+5pt x 264.99pt>
+File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png Graphic fil
+e (type png)
+<use C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png>
+Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
+11).png  used on input line 27.
+(pdftex.def)             Requested size: 398.33858pt x 266.90996pt.
+) [26 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png> <C:/Users/
+Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png>] [27 <C:/Users/Robin/Down
+loads/LaTex/Bilder/pasted image 0 (11).png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
+ (thesis.aux (misc/affirmation.aux)
+(misc/abstract.aux) (misc/tables.aux) (chapter/chapter1.aux)
+(chapter/chapter2.aux) (misc/appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1929,13 +2197,21 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
  )
 (\end occurred when \ifdefined on line 32 was incomplete) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  38403 strings out of 492482
  728573 string characters out of 3121576
  1073876 words of memory out of 3000000
  41976 multiletter control sequences out of 15000+200000
  577533 words of font info for 77 fonts, out of 3000000 for 9000
+=======
+ 38366 strings out of 492484
+ 722334 string characters out of 3123430
+ 1068255 words of memory out of 3000000
+ 41928 multiletter control sequences out of 15000+200000
+ 577523 words of font info for 77 fonts, out of 3000000 for 9000
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
  1141 hyphenation exceptions out of 8191
- 76i,11n,93p,10103b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 76i,11n,93p,10103b,600s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest):
  name{datensatz} has been referenced but does not exist, replaced by a fixed on
 e
@@ -1946,6 +2222,7 @@ ced but does not exist, replaced by a fixed one
 pdfTeX warning (dest): name{einf\374hrungMachineLearning} has been referenced b
 ut does not exist, replaced by a fixed one
 
+<<<<<<< HEAD
 {D:/Users/PitAu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
 D:/Users/PitAu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><D:/Users/PitAu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/h
@@ -1959,5 +2236,19 @@ Output written on thesis.pdf (33 pages, 1018864 bytes).
 PDF statistics:
  472 PDF objects out of 1000 (max. 8388607)
  109 named destinations out of 1000 (max. 500000)
+=======
+{C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/U
+sers/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb
+8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
+hvr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
+tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
+tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on thesis.pdf (34 pages, 1020252 bytes).
+PDF statistics:
+ 518 PDF objects out of 1000 (max. 8388607)
+ 98 named destinations out of 1000 (max. 500000)
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
  563 words of extra memory for PDF output out of 10000 (max. 10000000)
 

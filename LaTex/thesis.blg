@@ -1,0 +1,21 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: IEEEtranN.bst
+Illegal, another \bibstyle command---line 25 of file thesis.aux
+ : \bibstyle
+ :          {alphadin}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: misc/affirmation.aux
+A level-1 auxiliary file: misc/abstract.aux
+A level-1 auxiliary file: misc/tables.aux
+A level-1 auxiliary file: chapter/chapter1.aux
+A level-1 auxiliary file: chapter/chapter2.aux
+A level-1 auxiliary file: misc/appendix.aux
+Database file #1: bib/thesis.bib
+-- IEEEtranN.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Natbib version - not for normal IEEE work.
+Warning--missing publisher in AG
+
+Done.
+(There was 1 error message)
