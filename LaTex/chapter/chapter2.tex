@@ -23,7 +23,7 @@ Ziel des SVM Algorithmus ist es, eine Hyperebene(Ebene mit n-1 Dimensionen) in e
 
 \subsection{Random Forest Classifier}
 \label{sec:RFC}
-Bei diesem Algorithmus  werden aus dem Trainingsset zufällig Teilmengen genommen,mit denen dann mehrere Decisiontrees trainiert werden. Daher auch der Name "Random Forest", da dieser aus vielen verschiedenen Bäumen besteht\cite[p.~256]{MB}. Bekommt dieser Algorithmus einen Input gibt er ihn an jeden einzelnen Tree weiter, jeder für sich fällt dann unabhängig seine eigene Entscheidung. Später kommt es durch ein “Mehrheitsvotum” der einzelnen Trees zu einer finalen Einordnung der Klasse, wodurch dieser Algorithmus deutlich weniger anfällig für Overfitting ist als ein einzelner Decisiontree\cite{MED}. \hyperlink{einführungMachineLearning}{[Grafik Random Forest]}
+Bei diesem Algorithmus  werden aus dem Trainingsset zufällige Teilmengen genommen,mit denen dann mehrere Decisiontrees trainiert werden. Daher auch der Name "Random Forest", da dieser aus vielen verschiedenen Bäumen besteht\cite[p.~256]{MB}. Bekommt dieser Algorithmus einen Input gibt er ihn an jeden einzelnen Tree weiter, jeder für sich fällt dann unabhängig seine eigene Entscheidung. Später kommt es durch ein “Mehrheitsvotum” der einzelnen Trees zu einer finalen Einordnung der Klasse, wodurch dieser Algorithmus deutlich weniger anfällig für Overfitting ist als ein einzelner Decisiontree\cite{MED}. \hyperlink{einführungMachineLearning}{[Grafik Random Forest]}
 
 \section{Regression}
 \label{sec:regression}
@@ -111,6 +111,8 @@ Zusätzlich wird das Modul virtualenv installiert um das Projekt in einer isolie
 \chapter{Projektdurchführung}
 \label{chap:projektdurchführung}
 Das Jupyter-Notebook das zur Durchführung dieses Projekts angelegt wurde kann unter \href{https://github.com/robbmue/MLSKLSeminar}{https://github.com/robbmue/MLSKLSeminar} eingesehen werden.
+In diesem Kapitel werden als erstes die Daten aus dem Datensatz importiert und aufgearbeitet. Dann werden die Daten visualisiert und mithilfe der aus der Visualisieren gewonnenen Kentnisse in eine sogenannte Pipeline überführt, welche die Aufbereitung der Daten übernimmt.
+Anschließend können dann unterschiedliche Algorithmen aus den Feldern Regression und Classification mit Diesen trainiert und verglichen werden, eine Überprüfung der Ergebnisse mithilfe von Cross-Validation und eine abschließende Evaluation durchgeführt werden.
 
 \section{Vorbereitung der Daten 1}
 \label{VorbereitungDerDaten1}
