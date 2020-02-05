@@ -22,6 +22,11 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem[Bowles(2020)]{MB}
+M.~Bowles, \emph{Machine Learning with Spark and Python Essentia Techniques For
+  Predictive Analytics}.\hskip 1em plus 0.5em minus 0.4em\relax John Wiley \&
+  Sons, Inc., 2020.
+
 \bibitem[Lee(2019)]{WML}
 W.-M. Lee, \emph{Python Machine Learning}.\hskip 1em plus 0.5em minus
   0.4em\relax John Wiley \& Sons, Inc., 2019.
@@ -29,11 +34,6 @@ W.-M. Lee, \emph{Python Machine Learning}.\hskip 1em plus 0.5em minus
 \bibitem[SKL({\natexlab{a}})]{SKL}
 ``{SciKitLearn},'' \url{https://scikit-learn.org/stable/index.html}, accessed:
   2020-02-02.
-
-\bibitem[Bowles(2020)]{MB}
-M.~Bowles, \emph{Machine Learning with Spark and Python Essentia Techniques For
-  Predictive Analytics}.\hskip 1em plus 0.5em minus 0.4em\relax John Wiley \&
-  Sons, Inc., 2020.
 
 \bibitem[MED()]{MED}
 ``{Medium} random forest,''
@@ -52,6 +52,7 @@ A.~Géron, \emph{Hands on Machine Learning with Scikit-Learn, Keras and
 
 \bibitem[DAT()]{DATA}
 ``{Dataset} california housing prices,''
-  \urlhttps://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.tgz.
+  \url{https://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.tgz},
+  accessed: 2020-01-02.
 
 \end{thebibliography}

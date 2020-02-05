@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  3 FEB 2020 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  5 FEB 2020 18:56
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1215,7 +1215,8 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 \@float@every@pseudocode=\toks54
 \c@pseudocode=\count327
 ) (preamble/macros.tex) (thesis.aux (misc/affirmation.aux) (misc/abstract.aux)
-(chapter/chapter1.aux) (chapter/chapter2.aux) (misc/appendix.aux))
+(misc/tables.aux) (chapter/chapter1.aux) (chapter/chapter2.aux)
+(misc/appendix.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -1337,17 +1338,18 @@ an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to
 loading the todonotes package. on input line 18.
 
 (misc/titlepage.tex
-<../ostfalia/Ostfalia_LS_RGB_klein.jpg, id=30, 290.2845pt x 62.634pt>
-File: ../ostfalia/Ostfalia_LS_RGB_klein.jpg Graphic file (type jpg)
-<use ../ostfalia/Ostfalia_LS_RGB_klein.jpg>
-Package pdftex.def Info: ../ostfalia/Ostfalia_LS_RGB_klein.jpg  used on input l
-ine 10.
+<./figure/../ostfalia/Ostfalia_LS_RGB_klein.jpg, id=30, 290.2845pt x 62.634pt>
+File: ./figure/../ostfalia/Ostfalia_LS_RGB_klein.jpg Graphic file (type jpg)
+<use ./figure/../ostfalia/Ostfalia_LS_RGB_klein.jpg>
+Package pdftex.def Info: ./figure/../ostfalia/Ostfalia_LS_RGB_klein.jpg  used o
+n input line 10.
 (pdftex.def)             Requested size: 269.96179pt x 58.249pt.
-<../ostfalia/Reiter_Wolfen_RGB_174mm.jpg, id=31, 419.6478pt x 14.454pt>
-File: ../ostfalia/Reiter_Wolfen_RGB_174mm.jpg Graphic file (type jpg)
-<use ../ostfalia/Reiter_Wolfen_RGB_174mm.jpg>
-Package pdftex.def Info: ../ostfalia/Reiter_Wolfen_RGB_174mm.jpg  used on input
- line 14.
+<./figure/../ostfalia/Reiter_Wolfen_RGB_174mm.jpg, id=31, 419.6478pt x 14.454pt
+>
+File: ./figure/../ostfalia/Reiter_Wolfen_RGB_174mm.jpg Graphic file (type jpg)
+<use ./figure/../ostfalia/Reiter_Wolfen_RGB_174mm.jpg>
+Package pdftex.def Info: ./figure/../ostfalia/Reiter_Wolfen_RGB_174mm.jpg  used
+ on input line 14.
 (pdftex.def)             Requested size: 503.57484pt x 17.34467pt.
 
 Overfull \hbox (79.94705pt too wide) in paragraph at lines 10--15
@@ -1419,9 +1421,9 @@ Overfull \hbox (474.83302pt too wide) in paragraph at lines 56--57
 
 
 
-{C:/Users/Robin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../ostfalia
-/Ostfalia_LS_RGB_klein.jpg> <../ostfalia/Reiter_Wolfen_RGB_174mm.jpg> <./ostfal
-ia/Reiter_szsudwob_RGB_174mm.jpg>])
+{C:/Users/Robin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/..
+/ostfalia/Ostfalia_LS_RGB_klein.jpg> <./figure/../ostfalia/Reiter_Wolfen_RGB_17
+4mm.jpg> <./ostfalia/Reiter_szsudwob_RGB_174mm.jpg>])
 \openout2 = `misc/affirmation.aux'.
 
  (misc/affirmation.tex
@@ -1482,9 +1484,28 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 
 
 ]) [3]
+\openout2 = `misc/tables.aux'.
+
+ (misc/tables.tex (thesis.toc [4
+
+
+
+])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+ [5] (thesis.lof)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+) [6
+
+
+]
 \openout2 = `chapter/chapter1.aux'.
 
- (chapter/chapter1.tex
+
+(chapter/chapter1.tex
 chapter 1.
 
 Class scrreprt Warning: \float@addtolists detected!
@@ -1524,8 +1545,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-<C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png, id=70, 241.
-90375pt x 75.28125pt>
+<C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png, id=170, 241
+.90375pt x 75.28125pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png Graphic
  file (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png>
@@ -1547,8 +1568,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-<C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png, id=72, 241.
-90375pt x 75.28125pt>
+<C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png, id=172, 241
+.90375pt x 75.28125pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png Graphic
  file (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png>
@@ -1567,7 +1588,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 [4
 
 ] [5] [6]
-<C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG, id=126, 838.13126p
+<C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG, id=214, 838.13126p
 t x 288.07625pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG Graphic file (
 type png)
@@ -1575,7 +1596,7 @@ type png)
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting
 .PNG  used on input line 70.
 (pdftex.def)             Requested size: 398.33858pt x 136.91235pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG, id=128, 221.628pt x 67.4
+<C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG, id=216, 221.628pt x 67.4
 52pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG Graphic file (type p
 ng)
@@ -1612,7 +1633,7 @@ chapter 7.
 [12
 
 ]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png, id=178, 613.29124pt 
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png, id=256, 613.29124pt 
 x 398.48875pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png Graphic file (ty
 pe png)
@@ -1621,7 +1642,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.p
 ng  used on input line 130.
 (pdftex.def)             Requested size: 398.33858pt x 258.82004pt.
  [13 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png, id=184, 715.6737
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png, id=261, 715.6737
 5pt x 87.32625pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png Graphic file
  (type png)
@@ -1629,7 +1650,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 1).png  used on input line 150.
 (pdftex.def)             Requested size: 398.33858pt x 48.60521pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png, id=185, 582.175p
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png, id=262, 582.175p
 t x 108.405pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png Graphic file
  (type png)
@@ -1638,7 +1659,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 2).png  used on input line 155.
 (pdftex.def)             Requested size: 398.33858pt x 74.17426pt.
  [14 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png, id=196, 587.1937
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png, id=271, 587.1937
 6pt x 171.64125pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png Graphic file
  (type png)
@@ -1646,7 +1667,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 3).png  used on input line 162.
 (pdftex.def)             Requested size: 398.33858pt x 116.43687pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png, id=197, 1204.5pt x 7
+<C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png, id=272, 1204.5pt x 7
 44.7825pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png Graphic file (ty
 pe png)
@@ -1657,7 +1678,7 @@ ng  used on input line 178.
  [15 <C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png> <C:/Users/R
 obin/Downloads/LaTex/Bilder/pasted image 0 (3).png>] [16 <C:/Users/Robin/Downlo
 ads/LaTex/Bilder/imageLikeEmbed.png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png, id=212, 547.0437
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png, id=282, 547.0437
 5pt x 35.13126pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png Graphic file
  (type png)
@@ -1665,7 +1686,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 4).png  used on input line 199.
 (pdftex.def)             Requested size: 398.33858pt x 25.58179pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png, id=213, 704.6325
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png, id=283, 704.6325
 pt x 17.06375pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png Graphic file
  (type png)
@@ -1673,7 +1694,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 5).png  used on input line 204.
 (pdftex.def)             Requested size: 398.33858pt x 9.64622pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png, id=214, 445.665p
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png, id=284, 445.665p
 t x 18.0675pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png Graphic file
  (type png)
@@ -1681,7 +1702,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 6).png  used on input line 205.
 (pdftex.def)             Requested size: 278.83578pt x 11.30428pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png, id=215, 432.6162
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png, id=285, 432.6162
 6pt x 96.36pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png Graphic file
  (type png)
@@ -1726,21 +1747,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--42
 illiamkoehrsen /
  []
 
-! Undefined control sequence.
-l.55   \urlhttps
-                ://raw.githubusercontent.com/ageron/handson-ml2/master/datas...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (14.86102pt too wide) in paragraph at lines 54--56
-[]\T1/ptm/m/n/12 ``Dataset ca-li-for-nia hou-sing pri-ces,'' ://raw.githubuserc
-ontent.com/ageron/handson-
- []
-
 ) [22
 
 
@@ -1751,7 +1757,7 @@ ontent.com/ageron/handson-
  (misc/appendix.tex
 chapter A.
 <C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_line.pn
-g, id=251, 642.4pt x 481.8pt>
+g, id=319, 642.4pt x 481.8pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_li
 ne.png Graphic file (type png)
 <use C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_lin
@@ -1759,7 +1765,7 @@ e.png>
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning
 _regression_with_line.png  used on input line 6.
 (pdftex.def)             Requested size: 398.33858pt x 298.76436pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png, id=252, 59
+<C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png, id=320, 59
 4.22pt x 445.665pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png Graphi
 c file (type png)
@@ -1772,7 +1778,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD7
 
  <C:/Users/Robin/Downloads/LaTex/Bilder/machine_learning_regression_with_line.p
 ng>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png, id=259, 378.4137
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png, id=325, 378.4137
 6pt x 235.88126pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png Graphic file
  (type png)
@@ -1780,7 +1786,7 @@ File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png Graphic file
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 8).png  used on input line 14.
 (pdftex.def)             Requested size: 378.41283pt x 235.88068pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png, id=260, 1212.53p
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png, id=326, 1212.53p
 t x 872.25874pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (9).png Graphic file
  (type png)
@@ -1790,7 +1796,7 @@ Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 (pdftex.def)             Requested size: 398.33858pt x 286.55524pt.
  [24 <C:/Users/Robin/Downloads/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png> <C:/U
 sers/Robin/Downloads/LaTex/Bilder/pasted image 0 (8).png>]
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png, id=267, 395.477
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png, id=332, 395.477
 5pt x 252.945pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (10).png Graphic fil
 e (type png)
@@ -1798,7 +1804,7 @@ e (type png)
 Package pdftex.def Info: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (
 10).png  used on input line 22.
 (pdftex.def)             Requested size: 398.33858pt x 254.7777pt.
-<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png, id=268, 395.477
+<C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png, id=333, 395.477
 5pt x 264.99pt>
 File: C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (11).png Graphic fil
 e (type png)
@@ -1812,8 +1818,8 @@ loads/LaTex/Bilder/pasted image 0 (11).png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
  (thesis.aux (misc/affirmation.aux)
-(misc/abstract.aux) (chapter/chapter1.aux) (chapter/chapter2.aux)
-(misc/appendix.aux))
+(misc/abstract.aux) (misc/tables.aux) (chapter/chapter1.aux)
+(chapter/chapter2.aux) (misc/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
@@ -1821,13 +1827,13 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
  )
 (\end occurred when \ifdefined on line 32 was incomplete) 
 Here is how much of TeX's memory you used:
- 38312 strings out of 492484
- 720942 string characters out of 3123430
- 1066255 words of memory out of 3000000
- 41896 multiletter control sequences out of 15000+200000
- 576426 words of font info for 76 fonts, out of 3000000 for 9000
+ 38358 strings out of 492484
+ 722236 string characters out of 3123430
+ 1068255 words of memory out of 3000000
+ 41921 multiletter control sequences out of 15000+200000
+ 577523 words of font info for 77 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,11n,93p,10103b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 76i,11n,93p,10103b,600s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest):
  name{datensatz} has been referenced but does not exist, replaced by a fixed on
 e
@@ -1846,9 +1852,9 @@ hvr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on thesis.pdf (30 pages, 1005600 bytes).
+Output written on thesis.pdf (33 pages, 1018188 bytes).
 PDF statistics:
- 452 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
+ 515 PDF objects out of 1000 (max. 8388607)
+ 97 named destinations out of 1000 (max. 500000)
  563 words of extra memory for PDF output out of 10000 (max. 10000000)
 
