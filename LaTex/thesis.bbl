@@ -52,7 +52,11 @@ A.~Géron, \emph{Hands on Machine Learning with Scikit-Learn, Keras and
 
 \bibitem[DAT()]{DATA}
 ``{Dataset} california housing prices,''
+<<<<<<< HEAD
+  \url{https://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.tgz}.
+=======
   \url{https://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.tgz},
   accessed: 2020-01-02.
+>>>>>>> 1256aa2475e4a5bcfd169577550135e3e87f4ce8
 
 \end{thebibliography}
