@@ -1,45 +1,44 @@
 \babel@toc {ngerman}{}
-\contentsline {chapter}{\nonumberline Abk\IeC {\"u}rzungsverzeichnis}{VII}{chapter*.7}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Motivation}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Zielsetzung}{2}{section.2.1}%
-\contentsline {chapter}{\numberline {3}Einf\IeC {\"u}hrung Machine Learning Theorie}{3}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Einf\IeC {\"u}hrung verschiedener Problemstellungen}{4}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Classification}{4}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Support Vector Machine (SVM)}{4}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Random Forest Classifier}{5}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Regression}{5}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Lineare Regression}{5}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Decisiontree Regression}{5}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Random Forest Regression}{5}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Clustering}{6}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}K-Means}{6}{subsection.4.3.1}%
-\contentsline {section}{\numberline {4.4}Overfitting/Underfitting}{6}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Overfitting}{7}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Underfitting}{7}{subsection.4.4.2}%
-\contentsline {section}{\numberline {4.5}Performance Measure}{7}{section.4.5}%
-\contentsline {chapter}{\numberline {5}SciKit-Learn}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Projekteinf\IeC {\"u}hrung}{10}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Projektvorstellung}{10}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Datensatz}{10}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Vorbereiten der Entwicklungsumgebung}{11}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Projektdurchf\IeC {\"u}hrung}{12}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Vorbereitung der Daten 1}{12}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Visualisierung der Daten}{13}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Vorbereitung der Daten 2}{14}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Durchf\IeC {\"u}hurng Linear Regression}{14}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Durchf\IeC {\"u}hrung Decision Tree Regression \& Random Forest Regression}{15}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Cross-Validation}{15}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Erster Vergleich}{16}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Evaluation}{16}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Vergleich mit Classification}{17}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Projektauswertung}{18}{section.7.10}%
-\contentsline {chapter}{\numberline {8}Res\IeC {\"u}mee}{20}{chapter.8}%
-\contentsline {chapter}{\numberline {}Literaturverzeichnis}{22}{section*.8}%
-\contentsline {chapter}{\numberline {A}Anhang A}{23}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Regression Diagramm}{23}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Grafik Random Forest}{24}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Attribute des Datensatzes}{24}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Histogramm}{25}{section.A.4}%
-\contentsline {section}{\numberline {A.5}Verteilung Income}{25}{section.A.5}%
-\contentsline {section}{\numberline {A.6}R\IeC {\"a}umliche Verteilung der Datens\IeC {\"a}tze}{26}{section.A.6}%
+\contentsline {chapter}{\numberline {3}Einf\IeC {\"u}hrung Machine Learning}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Einf\IeC {\"u}hrung verschiedener Problemstellungen}{5}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Classification}{5}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Support Vector Machine (SVM)}{5}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Random Forest Classifier}{6}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Regression}{6}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Lineare Regression}{6}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Decisiontree Regression}{6}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Random Forest Regression}{6}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Clustering}{7}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}K-Means}{7}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}Overfitting/Underfitting}{7}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Overfitting}{8}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Underfitting}{8}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Performance Measure}{8}{section.4.5}%
+\contentsline {chapter}{\numberline {5}SciKit-Learn}{10}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Projekteinf\IeC {\"u}hrung}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Projektvorstellung}{11}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Datensatz}{11}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Vorbereiten der Entwicklungsumgebung}{12}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Projektdurchf\IeC {\"u}hrung}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Vorbereitung der Daten 1}{13}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Visualisierung der Daten}{14}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Vorbereitung der Daten 2}{15}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Durchf\IeC {\"u}hurng Linear Regression}{15}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Durchf\IeC {\"u}hrung Decision Tree Regression \& Random Forest Regression}{16}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Cross-Validation}{16}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Erster Vergleich}{17}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Evaluation}{18}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Vergleich mit Classification}{18}{section.7.9}%
+\contentsline {section}{\numberline {7.10}Projektauswertung}{20}{section.7.10}%
+\contentsline {chapter}{\numberline {8}Res\IeC {\"u}mee}{22}{chapter.8}%
+\contentsline {chapter}{\numberline {}Literaturverzeichnis}{24}{section*.19}%
+\contentsline {chapter}{\numberline {A}Anhang A}{25}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Regression Diagramm}{25}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Grafik Random Forest}{26}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Attribute des Datensatzes}{26}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Histogramm}{27}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Verteilung Income}{27}{section.A.5}%
+\contentsline {section}{\numberline {A.6}R\IeC {\"a}umliche Verteilung der Datens\IeC {\"a}tze}{28}{section.A.6}%

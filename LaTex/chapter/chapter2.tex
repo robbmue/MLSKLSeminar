@@ -1,13 +1,17 @@
 \chapter{Einführung Machine Learning}
 \label{chap:einführungMachineLearning}
-Um sich mit Machine Learning auseinanderzusetzen, muss zunächst die Theorie verstanden werden, welche sich dahinter verbirgt. Anders als bei herkömmlicher Programmierung, in der ein Programm und Daten einen Output erzeugt, leitet man beim Machine Learning aus gesammelten Daten und Outputs ein Programm her. \cite[p.~3]{WML} Dies wird in der unten stehenden Grafik verdeutlicht.
+Um sich mit Machine Learning auseinanderzusetzen, muss zunächst die Theorie verstanden werden, welche sich dahinter verbirgt. Anders als bei herkömmlicher Programmierung, in der ein Programm und Daten einen Output erzeugt, leitet man beim Machine Learning aus gesammelten Daten und Outputs ein Programm her \cite[S.~3]{WML}.  Dies wird in der unten stehenden Grafik verdeutlicht.
 \newline
 
-\includegraphics[]{C:/Users/Robin/Downloads/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png}\linebreak
-\linebreak
+\begin{figure}
+	\includegraphics[]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/sBdyby6FyPckxbimKufRD4Q.png}
+	\caption{Machine Learning}\cite[S.~3]{WML}
+\end{figure}
+\begin{figure}
+	\includegraphics[]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png}
+	\caption{Herkömmliche Programmierung}\cite[S.~3]{WML}
+\end{figure}
 
-\includegraphics[]{C:/Users/Robin/Downloads/LaTex/Bilder/sZFI1L7gymY3C_ipjtqSvrg.png}
-\cite[p.~3]{WML}
 
 \chapter{Einführung verschiedener Problemstellungen}
 \label{chap:einführungProblemstellungen}
@@ -15,28 +19,37 @@ Nicht nur bei den Algorithmen gibt es verschiedene Unterteilungen, auch die Prob
 
 \section{Classification}
 \label{sec:classification}
-In diesen Fällen versucht man mit hilfe von Machine Learning zu ermitteln in was für eine Kategorie ein Objekt gehört. \cite{SKL} Dies realisiert man, indem man das System mit einem Dataset der möglichen Kategorien trainiert. Das Ergebnis eines Classification Problems ist entweder ein diskreter oder ein kontinuierlicher Wert.\cite[p.~4]{WML} Spamfilter wären ein Beispiel eines Classification Problem, in dem Mails beispielsweise in die Kategorien Spam und kein Spam eingeteilt werden könnten. 
+In diesen Fällen versucht man mit hilfe von Machine Learning zu ermitteln in was für eine Kategorie ein Objekt gehört\cite{SKL}. Dies realisiert man, indem man das System mit einem Dataset der möglichen Kategorien trainiert. Das Ergebnis eines Classification Problems ist entweder ein diskreter oder ein kontinuierlicher Wert \cite[S.~4]{WML}. Spamfilter wären ein Beispiel eines Classification Problem, in dem Mails beispielsweise in die Kategorien Spam und kein Spam eingeteilt werden könnten. 
 
 \subsection{Support Vector Machine (SVM)}
 \label{sec:SVM}
-Ziel des SVM Algorithmus ist es, eine Hyperebene(Ebene mit n-1 Dimensionen) in einen n-dimensionalen Raum zu legen (wobei n die Anzahl der Features ist), sodass alle Datensätze einer Klasse auf einer Seiter der Hyperebene liegen und alle Datensätze einer anderen Klasse auf der anderen Seite. Dann kann für neue Daten aufgrund ihrer Position in Beziehung zu Ebene bestimmt werden, welcher Klasse diese angehört.\cite[p.~177f.]{WML} 
+Ziel des SVM Algorithmus ist es, eine Hyperebene(Ebene mit n-1 Dimensionen) in einen n-dimensionalen Raum zu legen (wobei n die Anzahl der Features ist), sodass alle Datensätze einer Klasse auf einer Seiter der Hyperebene liegen und alle Datensätze einer anderen Klasse auf der anderen Seite. Dann kann für neue Daten aufgrund ihrer Position in Beziehung zu Ebene bestimmt werden, welcher Klasse diese angehört \cite[S.~177f.]{WML}.
 
 \subsection{Random Forest Classifier}
 \label{sec:RFC}
-Bei diesem Algorithmus  werden aus dem Trainingsset zufällig Teilmengen genommen,mit denen verschiedene Modelle trainiert werden.\cite[p.~256]{MB} Diese verschiedenen Modelle werden durch Decisiontrees trainiert. Später kommt es durch ein “Mehrheitsvotum” zu einer finalen Einordnung der Klasse. \cite{MED} \hyperlink{einführungMachineLearning}{[Grafik Random Forest]}
+Bei diesem Algorithmus  werden aus dem Trainingsset zufällig Teilmengen genommen,mit denen verschiedene Modelle trainiert werden\cite[S.~256]{MB}. Diese verschiedenen Modelle werden durch Decisiontrees trainiert. Später kommt es durch ein “Mehrheitsvotum” zu einer finalen Einordnung der Klasse\cite{MED}.  Dies wird in folgender Abbildung verdeutlicht.
+
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png}
+	\caption{Diagramm: Random Forrest}
+\end{figure}
 
 \section{Regression}
 \label{sec:regression}
-Hier wird versucht mit Machine Learning eine Prognose zu machen. Diese Prognose entsteht, indem die KI verschiedene Variablen in Beziehung setzt und dadurch eine Vorhersage ermittelt. Als Ergebnis liefert die KI in diesem Fall einen kontinuierlichen Output.\cite[p.~4.]{WML}  Ein typisches Beispiel für Regression ist beispielsweise die Vorhersage der erreichten Punktzahl in einem Test im Verhältnis zur Lerndauer in Stunden. \hyperlink{chap:einführungMachineLearning}{[Regression Diagramm]}
+Hier wird versucht mit Machine Learning eine Prognose zu machen. Diese Prognose entsteht, indem die KI verschiedene Variablen in Beziehung setzt und dadurch eine Vorhersage ermittelt. Als Ergebnis liefert die KI in diesem Fall einen kontinuierlichen Output \cite[S.~4.]{WML}.  Ein typisches Beispiel für Regression ist beispielsweise die Vorhersage der erreichten Punktzahl in einem Test im Verhältnis zur Lerndauer in Stunden.  Dies wird in folgender Abbildung verdeutlicht.
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/machine_learning_regression_with_line.png}
+	\caption{Diagramm: Regression}
+\end{figure}
 
 \subsection{Lineare Regression}
 \label{sec:lineareRegression}
-Gilt als ein sehr einfacher Algorithmus, bei dem versucht wird eine lineare Annäherung zwischen einer Abhängigen und einer Unabhängigen Variablen zu ermitteln.\cite[p.~100.]{WML}  
+Gilt als ein sehr einfacher Algorithmus, bei dem versucht wird eine lineare Annäherung zwischen einer Abhängigen und einer Unabhängigen Variablen zu ermitteln\cite[S.~100.]{WML}.  
 
 
 \subsection{Decisiontree Regression}
 \label{sec:decisiontreeRegression}
-Decisiontrees werden bei classification und regression Problemen eingesetzt. Ziel dieses Algorithmus ist es, von einem Dataset Regeln zu lernen und anhand dieser Vorhersagen zu machen.Der Decisontree wird genauer, wenn dieser größer wird oder die Auswahlmöglichkeiten (decisions) komplexer werden.\cite{SKLT}
+Decisiontrees werden bei classification und regression Problemen eingesetzt. Ziel dieses Algorithmus ist es, von einem Dataset Regeln zu lernen und anhand dieser Vorhersagen zu machen.Der Decisontree wird genauer, wenn dieser größer wird oder die Auswahlmöglichkeiten (decisions) komplexer werden\cite{SKLT}.
 
 \subsection{Random Forest Regression}
 \label{sec:randomForestRegression}
@@ -44,12 +57,12 @@ Dieser Algorithmus funktioniert wie der vorher schon genannte Random Forest Clas
 
 \section{Clustering}
 \label{sec:clustering}
-Bei Clustering Problemen wird versucht mit hilfe von Machine Learning verschiedene Daten aus einem Dataset in verschiedene Gruppierungen einzuordnen.\cite[p.~5.]{WML} Clustering Probleme treten dann auf, wenn z.B. jemand eine Kundenanalyse durchführen möchte. Solch eine Kundenanalyse kann aufschlussreich sein, um das Kaufverhalten verschiedener Arten von Kunden zu analysieren.
+Bei Clustering Problemen wird versucht mit hilfe von Machine Learning verschiedene Daten aus einem Dataset in verschiedene Gruppierungen einzuordnen\cite[S.~5.]{WML}. Clustering Probleme treten dann auf, wenn z.B. jemand eine Kundenanalyse durchführen möchte. Solch eine Kundenanalyse kann aufschlussreich sein, um das Kaufverhalten verschiedener Arten von Kunden zu analysieren.
 
 
 \subsection{K-Means}
 \label{sec:kMeans}
-K-Means wird bei einem unlabeled Dataset angewendet und versucht in diesem K Gruppen zu finden. Dazu werden zunächst k zufällige Datenpunkte ausgewählt und dann anhand dieser die restlichen Daten zu den Clustern zugeordnet. Anschließend wird der Mittelwert(Mean) jedes Clusters bestimmt und die Daten werden anhand der neuen Means zu Clustern zugeordnet. Dieser Vorgang wird wiederholt, bis sich die Mittelwerte nicht mehr ändern. Bei K-Means werden beliebig viele solcher Modelle erstellt, und am Ende das verwendet, welches die geringste Varianz bietet.\cite[p.~222.]{WML}
+K-Means wird bei einem unlabeled Dataset angewendet und versucht in diesem K Gruppen zu finden. Dazu werden zunächst k zufällige Datenpunkte ausgewählt und dann anhand dieser die restlichen Daten zu den Clustern zugeordnet. Anschließend wird der Mittelwert(Mean) jedes Clusters bestimmt und die Daten werden anhand der neuen Means zu Clustern zugeordnet. Dieser Vorgang wird wiederholt, bis sich die Mittelwerte nicht mehr ändern. Bei K-Means werden beliebig viele solcher Modelle erstellt, und am Ende das verwendet, welches die geringste Varianz bietet\cite[S.~222.]{WML}.
 
 
 \section{Overfitting/Underfitting}
@@ -59,28 +72,34 @@ Damit man durch die genannten Algorithmen ein vernünftiges Ergebnis erzielen ka
 
 \subsection{Overfitting}
 \label{sec:overfitting}
-Beim Overfitting wurde das Modell so trainiert, dass es versucht jeden einzelnen Punkt aus den Trainingsdaten zu berücksichtigen. So werden auch unwichtige schwankungen der Daten beachtet. Bei Modellen die overfitten ist das größte Problem, dass dieses Modell nicht für neue Daten geeignet ist.\cite[p.~214.]{WML}
+Beim Overfitting wurde das Modell so trainiert, dass es versucht jeden einzelnen Punkt aus den Trainingsdaten zu berücksichtigen. So werden auch unwichtige schwankungen der Daten beachtet. Bei Modellen die overfitten ist das größte Problem, dass dieses Modell nicht für neue Daten geeignet ist\cite[S.~214.]{WML}.
 
 
 \subsection{Underfitting}
 \label{sec:underfitting}
-Anders als beim Overfitting passiert bei Underfitting im Prinzip das Gegenteil und das Modell schafft es nicht den Verlauf der Daten zu erfassen.\cite[p.~214.]{WML}
+Anders als beim Overfitting passiert bei Underfitting im Prinzip das Gegenteil und das Modell schafft es nicht den Verlauf der Daten zu erfassen\cite[S.~214.]{WML}.
 Ziel ist es ein Modell zu finden, welches sich zwischen Overfitting und Underfitting befindet. Die unten abgebildeten Graphen sind jeweils ein Beispiel für Underfitting, Overfitting und einem Modell, welches erstrebenswert ist. Das Modell Degree 1 ist das Modell, welches underfittet, das Modell Degree 4 ist das angestrebte und das Degree 15 das overfittete Modell.
 \newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/OverUnderfitting.PNG}
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/OverUnderfitting.PNG}
+	\caption{Overfitting Underfitting}
+\end{figure}
 
 
 \section{Performance Measure}
 \label{sec:performanceMeasure}
 Um die Genauigkeit der verschiedenen Algorithmen vergleichen zu können, muss eine Formel zur Bestimmung der Fehler gewählt werden. 
-Die übliche Methode ist der “Root Mean Spuare Error”. Diese gibt einen Ausblick auf die Anzahl an Fehler, die das System typischerweise macht, wobei größere Fehler auch schwerer gewichtet werden.\cite[p.~39.]{AG}
+Die übliche Methode ist der “Root Mean Spuare Error”. Diese gibt einen Ausblick auf die Anzahl an Fehler, die das System typischerweise macht, wobei größere Fehler auch schwerer gewichtet werden\cite[S.~39.]{AG}.
 \newline
-\includegraphics[]{C:/Users/Robin/Downloads/LaTex/Bilder/Berechnung.PNG}
+\begin{figure}
+	\includegraphics[]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/Berechnung.PNG}
+	\caption{Berechnung des Root Mean Square Error}
+\end{figure}
 
 
 \chapter{SciKit-Learn}
 \label{chap:sciKitLearn}
-Scikit-Learn ist ein Projekt, welches 2007 von David Cournapeau gestartet wurde.\cite{SKL} Ziel dieses Projektes ist es Machine-Learning für jeden zu vereinfachen, indem sie verschiedene Python-Libraries erstellen. Da die Algorithmen des Machine-Learning nur durch sehr komplex Berechnungen zu realisieren sind, stellt scikit verschiedene Libraries zur verfügung, welche diese komplexen Berechnungen für den Programmierer übernimmt, so dass oftmals nur wenige Funktionsaufrufe nötig sind, um eine KI zu erstellen. Aber scikit besteht nicht nur aus Funktionen, welche komplexe Berechnungen durchführen, es gibt auch Funktionen, wie z.B. train\_est\_split(), welche festlegt, welche Daten zum trainieren und welche zum Testen genommen werden.
+Scikit-Learn ist ein Projekt, welches 2007 von David Cournapeau gestartet wurde\cite{SKL}. Ziel dieses Projektes ist es Machine-Learning für jeden zu vereinfachen, indem sie verschiedene Python-Libraries erstellen. Da die Algorithmen des Machine-Learning nur durch sehr komplex Berechnungen zu realisieren sind, stellt scikit verschiedene Libraries zur verfügung, welche diese komplexen Berechnungen für den Programmierer übernimmt, so dass oftmals nur wenige Funktionsaufrufe nötig sind, um eine KI zu erstellen. Aber scikit besteht nicht nur aus Funktionen, welche komplexe Berechnungen durchführen, es gibt auch Funktionen, wie z.B. train\_est\_split(), welche festlegt, welche Daten zum trainieren und welche zum Testen genommen werden.
 
 \chapter{Projekteinführung}
 \label{chap:projekteinführung}
@@ -114,22 +133,42 @@ Das Jupyter-Notebook das zur Durchführung dieses Projekts angelegt wurde kann u
 
 \section{Vorbereitung der Daten 1}
 \label{VorbereitungDerDaten1}
-Zunächst muss der Datensatz, der verwendet werden soll in das System importiert werden, wofür der vorbereiteten Datensatz aus “Hands on Machine Learning” verwenden konnte.\cite{DATA} Die Daten müssen anschließend entpackt werden und können dann mithilfe von pandas eingelesen werden. 
-Anschließend können Informationen über den Datensatz angezeigt werden. Diese finden sich im Anhang \hyperlink{datensatz}{8.2 Attribute des Datensatzes}. Dort lässt sich erkennen, dass der Datensatz 20640 Einträge enthält. Eine Ausnahme bildet dabei das Attribut “total\_bedrooms”. Diese Problem wird in Kapitel \hyperlink{datensatz}{6.3 Vorbereitung der Daten 2} behandelt.
-Um eine genauere Vorstellung des Datensatzes zu bekommen, mit dem gearbeitet wird, kann außerdem ein Histogramm erstellt werden. Dieses findet sich im Anhang unter \hyperlink{datensatz}{8.3 Histogramm}. 
+Zunächst muss der Datensatz, der verwendet werden soll in das System importiert werden, wofür der vorbereiteten Datensatz aus “Hands on Machine Learning” verwenden konnte\cite{DATA}. Die Daten müssen anschließend entpackt werden und können dann mithilfe von pandas eingelesen werden. 
+Anschließend können Informationen über den Datensatz angezeigt werden. Diese finden sich im der Abbildung Attribut Datensatz. Dort lässt sich erkennen, dass der Datensatz 20640 Einträge enthält. Eine Ausnahme bildet dabei das Attribut “total\_bedrooms”. Diese Problem wird in Kapitel 6.3 Vorbereitung der Daten 2 behandelt.
+Um eine genauere Vorstellung des Datensatzes zu bekommen, mit dem gearbeitet wird, kann außerdem ein Histogramm erstellt werden. Dieses findet sich in der Abbildung Histogramm. 
 Dann muss dann das zur Verfügung stehende Dataset in zwei aufgesplittet werden. Ein Richtwert für die Aufteilung ist 80/20: 80\% der Daten befinden sich nach dem Split im train\_set und 20\% im test\_set.
 Zuletzt soll das Income-Feature in Kategorien eingeteilt werden, da dieses Feature für das Endergebnis eine besonders große Rolle spielt. Hier wurde eine Aufteilung in 5 Schichten gewählt, wobei jede ein Einkommen von +\$15,000 repräsentiert. 
-Also \$0 - \$15,000, \$15,000 - \$30,000 usw. wobei die letzte Kategorie nach oben nicht begrenzt ist, also >\$60,000. Ein Histogramm dieser Kategorien befindet sich im Anhang unter \hyperlink{datensatz}{8.4 Verteilung}. Mithilfe dieser Kategorien und des StratisfiedShuffleSplits, den scikit-learn zur Verfügung stellt, können Train und Test Sets gebildet werden, die die Verteilung der Einkommensschichten repräsentieren können. Diese werden strat\_train\_set und strat\_test\_set genannt.
+Also \$0 - \$15,000, \$15,000 - \$30,000 usw. wobei die letzte Kategorie nach oben nicht begrenzt ist, also >\$60,000. Ein Histogramm dieser Kategorien ist das Histogramm Verteilung Income. Mithilfe dieser Kategorien und des StratisfiedShuffleSplits, den scikit-learn zur Verfügung stellt, können Train und Test Sets gebildet werden, die die Verteilung der Einkommensschichten repräsentieren können. Diese werden strat\_train\_set und strat\_test\_set genannt.
+
+\begin{figure}
+	\includegraphics[]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (8).png}
+	\caption{Attribute Datensatz}
+\end{figure}
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (9).png}
+	\caption{Histogramm}
+\end{figure}
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (10).png}
+	\caption{Histogramm: Verteilung Income}
+\end{figure}
 
 
 \section{Visualisierung der Daten}
 \label{visualisierungDerDaten}
-Um ein noch besseres Verständnis für die Daten zu bekommen werden diese auf verschiedene Arten visualisiert. Als Erstes als die reine Verteilung unserer Daten auf den Raum Kalifornien. Jedes Datum wird mit einem Punkte repräsentiert, dicht besiedelte Gebiete werden hervorgehoben. Da als X- und Y-Achsen die Koordinaten gewählt wurden, wird hier die Form Kaliforniens abgebildet. Die Grafik findet sich im Anhang unter \hyperlink{datensatz}{8.5 Räumliche Verteilung der Datensätze}.
+Um ein noch besseres Verständnis für die Daten zu bekommen werden diese auf verschiedene Arten visualisiert. Als Erstes als die reine Verteilung unserer Daten auf den Raum Kalifornien. Jedes Datum wird mit einem Punkte repräsentiert, dicht besiedelte Gebiete werden hervorgehoben. Da als X- und Y-Achsen die Koordinaten gewählt wurden, wird hier die Form Kaliforniens abgebildet. Dies ist in der Grafik Räumliche Verteilung der Datensätze wiederzufinden.
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (11).png}
+	\caption{Räumliche Verteilung der Datensätze}
+\end{figure}
+
 Damit die Muster, die dieser Grafik zugrunde liegen noch besser verstanden werden können, werden sie in eine Jet-Grafik umgewandelt. Rot symbolisiert dabei die hohen Grundstückspreise und Blau die niedrigen.
-\newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0.png}
-\newline
-Hier lässt sich erkennen, dass für unser vorhaben vor allem die Attribute Lage und Bevölkerungsdichte wichtig sein werden. Mithilfe dieser Visualisierungen lassen sich also wichtige Informationen herausarbeiten.
+
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0.png}
+	\caption{Hier lässt sich erkennen, dass für unser vorhaben vor allem die Attribute Lage und Bevölkerungsdichte wichtig sein werden. Mithilfe dieser Visualisierungen lassen sich also wichtige Informationen herausarbeiten.
+}
+\end{figure}
 
 
 \section{Vorbereitung der Daten 2}
@@ -146,21 +185,26 @@ Dafür konnten die von scikit-learn implementierten Module Pipeline, StandardSca
 \section{Durchfühurng Linear Regression}
 \label{durchfühurngLinearRegression}
 Folgendes Code Beispiel soll veranschaulichen wie simpel es mithilfe von scikit-learn ist, einen Machine-Learning Algorithmus zu trainieren:
-\newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (1).png}
-\newline
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (1).png}
+	\caption{Code: Lineare Regression}
+\end{figure}
 Mit diesen wenigen Zeilen wurde zunächst das entsprechende Modul importiert, dann ein entsprechendes Objekt erzeugt und trainiert. 
 Auch die Evaluierung des Systems ist nicht viel komplexer:
 \newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (2).png}
-
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (2).png}
+	\caption{Code: Evaluation Regression}
+\end{figure}
 
 \section{Durchführung Decision Tree Regression \& Random Forest Regression}
 \label{durchführungDecisionTreeRegressionRandomForestRegression}
 Auch für diese Alternative bietet scikit-learn eine Implementation:
 \newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (3).png}
-\newline
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (3).png}
+	\caption{Code: Decision Tree Regression}
+\end{figure}
 Random Forest ist genauso zu implementieren, deswegen hier nicht abgebildet.
 
 \section{Cross-Validation}
@@ -175,8 +219,10 @@ Mithilfe von SciKit-Learns cross-Validierungs Funktion konnte diese Vermutung ei
 Mithilfe dieser Funktionen lassen sich schon einige wichtige Werte für den Vergleich der Unterschiedlichen Algorithmen finden.
 Als dritter Algorithmus wurde RandomForestRegressor ausgewählt und der Übersicht hinzugefügt:
 \newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/imageLikeEmbed.png}
-\newline
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/imageLikeEmbed.png}
+	\caption{Statistik: Vergleich verschiedener Algorithmen bei der die y-Achse \$ entspricht}
+\end{figure}
 Hier lässt sich erkennen, dass für den Algorithmus RandomForestRegression Der Fehler in der Standardabweichung sowie bei der Cross-Validation am kleinsten war, dieser Algorithmus scheint also bisher die genauesten Ergebnisse zu liefern. Dass der Decision-Tree keinen Fehler bei der RMSE-Berechnung hat, liegt also tatsächlich am Overfitting.
 
 
@@ -196,24 +242,30 @@ Das Verfahren zum Trainieren der Algorithmen ist analog zu dem vorherigen, nur m
 Beim predicten eines Preises wird dann eine sogenannte decision\_funktion erstellt, mit deren Hilfe sich ein Objekt zu einer Preisklasse zuordnen lassen können soll.
 Hier ein Beispiel für solch eine Funktion:
 \newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (4).png}
-\newline
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (4).png}
+	\caption{decision\_funktion}
+\end{figure}
 In diesem Beispiel ist klar erkennbar, dass der Wert der die Klasse 10 repräsentiert am höchsten ist. Das Objekt sollte aber eigentlich der Klasse 5 zugeordnet werden. 
 Hier liegt also ein Fehler vor. Um die Präzision genau zu bestimmen wird wieder mit dem cross\_val\_score gearbeitet.
 \newline
-\includegraphics[width=1.0\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (5).png}
-\includegraphics[width=0.7\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (6).png} \linebreak
+\begin{figure}
+	\includegraphics[width=1.0\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (5).png}
+	\caption{Code: cross\_val\_score 1}
+\end{figure}
+\begin{figure}
+	\includegraphics[width=0.7\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (6).png} 
+	\caption{Code: cross\_val\_score 2}
+\end{figure}
 Die Präzision dieses Algorithmus ist mit 47\% nicht besonders gut, weswegen das Problem noch einmal mit einem Classification Algorithmus angegangen wird, der sich bereits bewährt hat: Dem SDGClassifier bzw. dem Random Forest Classifier. Mit diesem Ansatz ließ sich jedoch nur ein Präzision von 35\% erreichen. Um zu zufriedenstellenden Ergebnissen zu gelangen muss also ein anderer Weg gewählt werden. 
-\newline
 \newline
 Eine sinnvolle Lösung erschien es uns zu sein, die Preiskategorien anzupassen. Im nächsten Anlauf werden nun Klasses von jeweils \$100.000 benutzt um das System zu trainieren. Es werden also 6 Kategorien erstellt und als Label-Set definiert, mit denen die Algorithmen erneut trainiert und getestet werden. Die Ergebnisse folgen:
 \newline
-\includegraphics[width=0.7\textwidth]{C:/Users/Robin/Downloads/LaTex/Bilder/pasted image 0 (7).png}
-\newline
+\begin{figure}
+	\includegraphics[width=0.7\textwidth]{C:/Users/PitAu/Desktop/Seminar Zeug/MLSKLSeminar/LaTex/Bilder/pasted image 0 (7).png}
+	\caption{Ergebnis nach anpassung der Preiskategorien. SVM hat eine Präzision von 64\% und SGD 52\%}
+\end{figure}
 
-SVM hat eine Präzision von 64\% und SGD 52\%
-\newline
-\newline
 Bei einer Gegenüberstellung der Ergebnisse des Regressions Ansatzes gegenüber dem Classification Ansatzes lässt sich folgendes festhalten:
 \begin{itemize}
 \item Mit der Regression ließ sich ein RMSE von \$48.464 erreichen
@@ -226,7 +278,6 @@ Ein direkter Vergleich dieser Werte ist kaum sinnvoll zu vollziehen.
 Der Grund dafür ist uns während der Durchführung des Projekts immer klarer geworden:
 Einen direkten Vergleich zwischen Classification- und Regression-Algorithmen ist weder möglich noch sinnvoll. Für jede Problemstellung ist ein anderer Ansatz zu wählen: 
 In unserem Beispiel liegt ein klarer Fall von Regression vor, denn es soll ein möglichst genauer Preis für das Haus bestimmt werden. Durch einen Workaround wurde versucht das Problem auch für den Classification Ansatz aufzubereiten, mit diesem erzwungenen Ansatz konnten allerdings keine besonders guten Ergebnisse erzielt werden. Der Clustering-Ansatz ist für den Datensatz so unpassend, dass dieser aus unserem Experiment ausgeschlossen wurde. Ohne das Labeln der Daten werden die Häuser wahrscheinlich in Kategorien wie “Entfernung zum Strand” eingeteilt werden, da diese im Datensatz die klarsten Anzeichen für Klassen zeigen. 
-\newline
 \newline
 Jeder Ansatz hat seine Daseinsberechtigung, und dass einige Algorithmen besser abschneiden als andere, kann auch in der Natur der Problemstellung begründet sein. 
 Die ersten und wichtigsten Schritte bei einem Machine-Learning Projekt sollten unsere Meinung also folgende sein:
