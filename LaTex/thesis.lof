@@ -3,8 +3,27 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Machine Learning\relax }}{4}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Herk\IeC {\"o}mmliche Programmierung\relax }}{5}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Diagramm: Random Forrest\relax }}{7}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagramm: Regression\relax }}{8}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Overfitting Underfitting\relax }}{10}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Berechnung des Root Mean Square Error\relax }}{11}{figure.caption.15}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Attribute Datensatz\relax }}{16}{figure.caption.16}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Histogramm\relax }}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Histogramm: Verteilung Income\relax }}{17}{figure.caption.18}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces R\IeC {\"a}umliche Verteilung der Datens\IeC {\"a}tze\relax }}{18}{figure.caption.19}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Hier l\IeC {\"a}sst sich erkennen, dass f\IeC {\"u}r unser vorhaben vor allem die Attribute Lage und Bev\IeC {\"o}lkerungsdichte wichtig sein werden. Mithilfe dieser Visualisierungen lassen sich also wichtige Informationen herausarbeiten. \relax }}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Code: Lineare Regression\relax }}{20}{figure.caption.21}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Code: Evaluation Regression\relax }}{20}{figure.caption.22}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Code: Decision Tree Regression\relax }}{21}{figure.caption.23}%
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Statistik: Vergleich verschiedener Algorithmen bei der die y-Achse \$ entspricht\relax }}{22}{figure.caption.25}%
+\contentsline {figure}{\numberline {7.10}{\ignorespaces decision\_funktion\relax }}{23}{figure.caption.26}%
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Code: cross\_val\_score 1\relax }}{23}{figure.caption.27}%
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Code: cross\_val\_score 2\relax }}{24}{figure.caption.28}%
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Ergebnis nach anpassung der Preiskategorien. \ac {SVM} hat eine Pr\IeC {\"a}zision von 64\% und SGD 52\%\relax }}{24}{figure.caption.29}%
 \addvspace {10\p@ }
