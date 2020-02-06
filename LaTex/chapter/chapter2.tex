@@ -90,7 +90,7 @@ Ziel ist es ein Modell zu finden, welches sich zwischen Overfitting und Underfit
 \end{figure}
 
 
-\section{Performance Measure (R.M)}
+\section{Performance Measure (RBM)}
 \label{sec:performanceMeasure}
 Um die Genauigkeit der verschiedenen Algorithmen vergleichen zu können, muss eine Formel zur Bestimmung der Fehler gewählt werden. 
 Die übliche Methode ist der “Root Mean Spuare Error”. Diese gibt einen Ausblick auf die Anzahl an Fehler, die das System typischerweise macht, wobei größere Fehler auch schwerer gewichtet werden\cite[S.~39.]{AG}.
@@ -105,7 +105,7 @@ Die übliche Methode ist der “Root Mean Spuare Error”. Diese gibt einen Ausb
 \label{chap:sciKitLearn}
 Scikit-Learn ist ein Projekt, welches 2007 von David Cournapeau gestartet wurde\cite{SKL}. Ziel dieses Projektes ist es Machine-Learning für jeden zu vereinfachen, indem sie verschiedene Python-Libraries erstellen. Da die Algorithmen des Machine-Learning nur durch sehr komplex Berechnungen zu realisieren sind, stellt scikit verschiedene Libraries zur verfügung, welche diese komplexen Berechnungen für den Programmierer übernimmt, so dass oftmals nur wenige Funktionsaufrufe nötig sind, um eine KI zu erstellen. Aber scikit besteht nicht nur aus Funktionen, welche komplexe Berechnungen durchführen, es gibt auch Funktionen, wie z.B. train\_est\_split(), welche festlegt, welche Daten zum trainieren und welche zum Testen genommen werden.
 
-\chapter{Beispielprojekt (R.M)}
+\chapter{Beispielprojekt (RBM)}
 \label{chap:Beispielprojekt}
 
 \section{Projektvorstellung}
@@ -131,7 +131,7 @@ Auf dem für das Projekt zur Verfügung stehenden Computer muss Python mit folge
 \end{itemize}
 Zusätzlich wird das Modul virtualenv installiert um das Projekt in einer isolierten Umgebung durchführen zu können. Als letztes wird der Jupyter-Server gestartet.
 
-\chapter{Projektdurchführung (R.M)}
+\chapter{Projektdurchführung (RBM)}
 \label{chap:projektdurchführung}
 Das Jupyter-Notebook das zur Durchführung dieses Projekts angelegt wurde, kann unter \href{https://github.com/robbmue/MLSKLSeminar}{https://github.com/robbmue/MLSKLSeminar} eingesehen werden.
 
@@ -218,7 +218,7 @@ Random Forest ist genauso zu implementieren, deswegen hier nicht abgebildet.
 \label{crossValidation}
 Beim validieren des Decision-Trees fällt natürlich auf, dass nach dem Abgleich der Ergebnisse ein \ac{RMSE} von 0 vorliegt, also jeder Preis auf den Cent genau richtig vorhergesagt wurde. Wie kann das sein? 
 Hier liegt die Vermutung nahe, dass der Algorithmus aufgrund der gelieferten Daten dahingehend trainiert wurde, dass er deutlich overfitted.
-Mithilfe von SciKit-Learns cross-Validierungs Funktion konnte diese Vermutung einfach kontrolliert werden: Die Funktion cross\_val\_score bildet aus einem gegebenen Datensatz beliebig viele sogenannte Folds. Danach wird entsprechend oft der ausgewählte Algorithmus mithilfe aller Folds, bis auf einen trainiert und an dem ausgelassenen Fold validiert. So entsteht ein Array mit den pro Fold festgestellten Fehlern und damit kann der durchschnittliche Fehler sowie auch die Standardabweichung bestimmt werden.
+Mithilfe von SciKit-Learns cross-Validierungs Funktion konnte diese Vermutung einfach kontrolliert werden: Die Funktion cross\_val\_score bildet aus einem gegebenen Datensatz beliebig viele sogenannte Folds. Ein Fold besteht aus einer Teilmenge des ursprüngliches Datasets, in diesem Fall werden 10 Folds gebildet. Danach wird entsprechend oft der ausgewählte Algorithmus mithilfe aller Folds, bis auf einen trainiert und an dem ausgelassenen Fold validiert. So entsteht ein Array mit den pro Fold festgestellten Fehlern und damit kann der durchschnittliche Fehler sowie auch die Standardabweichung bestimmt werden.
 
 
 \section{Erster Vergleich}
@@ -281,13 +281,13 @@ Bei einer Gegenüberstellung der Ergebnisse des Regressions Ansatzes gegenüber 
 
 \section{Projektauswertung}
 \label{projektauswertung}
-Ein direkter Vergleich dieser Werte ist kaum sinnvoll zu vollziehen.
-Der Grund dafür ist uns während der Durchführung des Projekts immer klarer geworden:
-Einen direkten Vergleich zwischen Classification- und Regression-Algorithmen ist weder möglich noch sinnvoll. Für jede Problemstellung ist ein anderer Ansatz zu wählen: 
-In unserem Beispiel liegt ein klarer Fall von Regression vor, denn es soll ein möglichst genauer Preis für das Haus bestimmt werden. Durch einen Workaround wurde versucht das Problem auch für den Classification Ansatz aufzubereiten, mit diesem erzwungenen Ansatz konnten allerdings keine besonders guten Ergebnisse erzielt werden. Der Clustering-Ansatz ist für den Datensatz so unpassend, dass dieser aus unserem Experiment ausgeschlossen wurde. Ohne das Labeln der Daten werden die Häuser wahrscheinlich in Kategorien wie “Entfernung zum Strand” eingeteilt werden, da diese im Datensatz die klarsten Anzeichen für Klassen zeigen. 
+Ein direkter Vergleich dieser Werte ist nicht sinnvoll.
+Der Grund dafür ist während der Durchführung des Projekts klare geworden:
+Einen direkter Vergleich zwischen Classification- und Regression-Algorithmen ist nicht möglich. Für jede Problemstellung ist ein anderer Ansatz zu wählen: 
+In diesem Beispiel liegt ein klarer Fall von Regression vor, denn es soll ein möglichst genauer Preis für das Haus bestimmt werden. Durch einen Workaround wurde versucht das Problem auch für den Classification Ansatz aufzubereiten, mit diesem erzwungenen Ansatz konnten allerdings keine besonders guten Ergebnisse erzielt werden. Der Clustering-Ansatz ist für den Datensatz so unpassend, dass dieser aus unserem Experiment ausgeschlossen wurde. Ohne das Labeln der Daten werden die Häuser in Kategorien wie “Entfernung zum Strand” eingeteilt werden, da diese im Datensatz die klarsten Anzeichen für Klassen zeigen. 
 \newline
-Jeder Ansatz hat seine Daseinsberechtigung, und dass einige Algorithmen besser abschneiden als andere, kann auch in der Natur der Problemstellung begründet sein. 
-Die ersten und wichtigsten Schritte bei einem Machine-Learning Projekt sollten unsere Meinung also folgende sein:
+Jeder Ansatz hat seine Daseinsberechtigung, und dass einige Algorithmen besser abschneiden als andere, ist in der Natur der Problemstellung begründet. 
+Die entscheidenden Schritte bei einem Machine-Learning Projekt sind also folgende :
 \begin{itemize}
 \item Ziel genau definieren \newline
 Im Beispiel: Sollen genaue Preise geschätzt werden? Sollen Preisklassen gebildet werden?
@@ -299,20 +299,29 @@ Wenn ja sollten diese, falls sie für das Projekt sinnvoll erscheinen, unbedingt
 \item Auswahl der Herangehensweise \newline
 Mit den Informationen die in den ersten Schritten gesammelt worden, sollte es einfach sein sich für die richtige Methode und den passenden Algorithmus zu entscheiden.
 \end{itemize}
-Unter Berücksichtigung dieser Gesichtspunkte sollte man meistens zu einer erfolgreichen Algorithmus-Auswahl und damit auch zu einem sinnvollen Projektergebnis gelangen.
+Unter Berücksichtigung dieser Gesichtspunkte sollte  meistens zu einr erfolgreichen Algorithmus-Auswahl und damit auch zu ein sinnvolles Projektergebnis erreicht werden.
 
-\chapter{Resümee (R.M)}
+\chapter{Resümee (RBM)}
 \label{resümee}
-Beim Schreiben dieser Seminararbeit und bei der Durchführung des dazu erdachten Experiments, sahen wir uns immer wieder mit der Vielfältigkeit des Machine-Learnings konfrontiert. 
-Unser ursprünglicher Ansatz, der Vergleich verschiedener Algorithmen aus verschiedenen Ansätzen erwies sich mit dem Voranschreiten des Projekts als immer weniger sinnvoll.
-Stattdessen haben wir wertvolle Erkenntnisse im Umgang mit Machine Learning Projekten erlangt:
-Es gibt keine allgemeingültige beste Lösung, sondern es muss genau überlegt werden welcher Ansatz für das vorliegende Problem der richtige ist. SciKit-Learn unterstützt einen dabei mit zahlreichen Funktionen und Möglichkeiten, die es uns ermöglicht haben die Daten einfach aufzubereiten und zu visualisieren. Diese Tools machen es uns relativ leicht das Problem einzuordnen und dementsprechend die korrekte Herangehensweise zu selektieren.
-Bei unserem Projekt ist der sinnvollste Ansatz die Regression, daraus lassen sich allerdings keinerlei Rückschlüsse auf andere Problematiken ziehen.
-Mithilfe der gewonnenen Erkenntnisse lässt sich allerdings im Bezug auf das Thema Mobilität eine wichtige Aussage treffen: 
-Ein solch umfassendes Thema wie zum Beispiel Autonomes Fahren muss sich aller Instrumente bedienen um ansatzweise abgedeckt werden zu können. Es folgen einige Exempel um diese Aussage zu verdeutlichen.
-Als erste Komplexität wollen wir die Erkennung von Straßenschildern nennen. Hier müssen keine unbekannten oder neuen Schilder gedeutet werden, es sind alle Schilder bekannt und können klar gelabelt werden. Hier sollte also unbedingt mit Classification gearbeitet werden um das bestmögliche Ergebnis zu erzielen.
-Ein Präzedenzfall für Regression wiederum ist die Berechnung der besten Geschwindigkeit, bei der die Gefährdung minimal ist aber auch der Verkehrsfluss nicht beeinträchtigt wird. Diese ist abhängig vom Abstand zum vorherfahrenden Automobil, der zulässigen Geschwindigkeit, dem Zustand der Fahrbahn und vielen weiteren Faktoren. Aufgrund all dieser Daten muss ein genauer Wert festgelegt werden, es wird also klar, dass Regression hier die sinnvollste Methodik ist. 
-All diese Erkenntnisse konnten wir vor allem mithilfe unseres Projekts erlangen. Dieses hat zwar nicht zu den Ergebnissen geführt, die wir uns anfangs erhofft haben, hat dafür aber zu einem tieferen Verständnis für Deep-Learning und dessen Diversität in Ansätzen und Problemen geführt und war deswegen für uns von allergrößter Bedeutung und Nutzen.
+Nach der Durchführung des Beispielprojekts und unter Berücksichtigung der zusammengetragenen Informationen aus den vorangehenden Kapiteln lässt sich folgendes zusammenfassen:
+
+ML ist ein sehr komplexes und vielfältiges Thema, das viele verschiedene Bereiche bedienen kann. Für die meisten Problemstellungen lassen sich passende Ansätze und Algorithmen finden. Bei diesen ist zu beachten, dass es keine allgemeingültige beste Lösung gibt, sondern genau überlegt werden muss, welcher Ansatz für das vorliegende Problem der Richtige ist. 
+SciKit-Learn unterstützt einen dabei mit zahlreichen Funktionen und Möglichkeiten, die es ermöglichen die Daten einfach aufzubereiten und zu visualisieren. Diese Tools machen es leicht, das Problem einzuordnen und dementsprechend die korrekte Herangehensweise zu selektieren.
+Danach kann SciKit unabhängig von dem ausgewählten Ansatz und Algorithmus immer auf die gleiche Weise genutzt werden:
+\begin{itemize}
+	\item 
+	Initialisierung des Algorithmus
+	\item
+	Trainieren des Models mit der fit() Methode
+	\item
+	Bestimmen neuer Werte mit der predict() Methode
+\end{itemize}
+Mithilfe der gewonnenen Erkenntnisse lässt sich im Bezug auf das Thema Mobilität eine wichtige Aussage treffen: 
+Ein solch umfassendes Thema wie zum Beispiel Autonomes Fahren muss sich aller zur verfügugn stehenden Instrumente bedienen um ansatzweise abgedeckt werden zu können. Es folgen einige Exempel um diese Aussage zu verdeutlichen.
+Als erste Komplexität sol hier die Erkennung von Straßenschildern genannt werden. Hier müssen keine unbekannten oder neuen Schilder gedeutet werden, es sind alle Schilder bekannt und können klar gelabelt werden. Hier sollte also mit Classification gearbeitet werden um das bestmögliche Ergebnis zu erzielen.
+Ein Präzedenzfall für Regression wiederum ist die Berechnung der besten Geschwindigkeit, bei der die Gefährdung minimal ist aber auch der Verkehrsfluss nicht beeinträchtigt wird. Diese ist abhängig vom Abstand zum vorherfahrenden Automobil, der zulässigen Geschwindigkeit, dem Zustand der Fahrbahn und vielen weiteren Faktoren. Aufgrund all dieser Daten muss ein genauer Wert festgelegt werden, es wird also klar, dass Regression hier die sinnvollste Methodik ist. \cite{DAIM}
+ 
+All diese Erkenntnisse konnten vor allem mithilfe des Projekts erlanget werden. Dieses hat zu einem tieferen Verständnis für Deep-Learning und dessen Diversität in Ansätzen und Problemen geführt.
 
 
 

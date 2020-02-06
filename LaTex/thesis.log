@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  6 FEB 2020 02:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.2.3)  6 FEB 2020 17:51
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1381,11 +1381,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
  []
 
 
-Overfull \hbox (5.8647pt too wide) in paragraph at lines 21--22
-[]\T1/phv/m/n/17.28 Robin Mül-ler, 70460120, Pit-Aurel Eh-lers, 70453261 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
@@ -1556,14 +1551,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-<./figure/../Bilder/sBdyby6FyPckxbimKufRD4Q.png, id=212, 241.90375pt x 75.28125
+<./figure/../Bilder/sBdyby6FyPckxbimKufRD4Q.png, id=214, 241.90375pt x 75.28125
 pt>
 File: ./figure/../Bilder/sBdyby6FyPckxbimKufRD4Q.png Graphic file (type png)
 <use ./figure/../Bilder/sBdyby6FyPckxbimKufRD4Q.png>
 Package pdftex.def Info: ./figure/../Bilder/sBdyby6FyPckxbimKufRD4Q.png  used o
 n input line 7.
 (pdftex.def)             Requested size: 241.90315pt x 75.28105pt.
-<./figure/../Bilder/sZFI1L7gymY3C_ipjtqSvrg.png, id=215, 241.90375pt x 75.28125
+<./figure/../Bilder/sZFI1L7gymY3C_ipjtqSvrg.png, id=217, 241.90375pt x 75.28125
 pt>
 File: ./figure/../Bilder/sZFI1L7gymY3C_ipjtqSvrg.png Graphic file (type png)
 <use ./figure/../Bilder/sZFI1L7gymY3C_ipjtqSvrg.png>
@@ -1588,14 +1583,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [6
 
 ]
-<./figure/../Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png, id=244, 594.22pt x 445.665pt>
+<./figure/../Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png, id=246, 594.22pt x 445.665pt>
 
 File: ./figure/../Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png Graphic file (type png)
 <use ./figure/../Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png>
 Package pdftex.def Info: ./figure/../Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png  used 
 on input line 34.
 (pdftex.def)             Requested size: 398.33858pt x 298.764pt.
-<./figure/../Bilder/machine_learning_regression_with_line.png, id=250, 642.4pt 
+<./figure/../Bilder/machine_learning_regression_with_line.png, id=252, 642.4pt 
 x 481.8pt>
 File: ./figure/../Bilder/machine_learning_regression_with_line.png Graphic file
  (type png)
@@ -1605,13 +1600,13 @@ ne.png  used on input line 45.
 (pdftex.def)             Requested size: 398.33858pt x 298.76436pt.
  [7 <./figure/../Bilder/1_i0o8mjFfCn-uD79-F1Cqkw.png>] [8 <./figure/../Bilder/m
 achine_learning_regression_with_line.png>] [9]
-<./figure/../Bilder/OverUnderfitting.PNG, id=273, 838.13126pt x 288.07625pt>
+<./figure/../Bilder/OverUnderfitting.PNG, id=275, 838.13126pt x 288.07625pt>
 File: ./figure/../Bilder/OverUnderfitting.PNG Graphic file (type png)
 <use ./figure/../Bilder/OverUnderfitting.PNG>
 Package pdftex.def Info: ./figure/../Bilder/OverUnderfitting.PNG  used on input
  line 88.
 (pdftex.def)             Requested size: 398.33858pt x 136.91235pt.
-<./figure/../Bilder/Berechnung.PNG, id=275, 221.628pt x 67.452pt>
+<./figure/../Bilder/Berechnung.PNG, id=277, 221.628pt x 67.452pt>
 File: ./figure/../Bilder/Berechnung.PNG Graphic file (type png)
 <use ./figure/../Bilder/Berechnung.PNG>
 Package pdftex.def Info: ./figure/../Bilder/Berechnung.PNG  used on input line 
@@ -1646,31 +1641,31 @@ chapter 7.
 [15
 
 ]
-<./figure/../Bilder/pasted image 0 (8).png, id=308, 378.41376pt x 235.88126pt>
+<./figure/../Bilder/pasted image 0 (8).png, id=310, 378.41376pt x 235.88126pt>
 File: ./figure/../Bilder/pasted image 0 (8).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (8).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (8).png  used on inp
 ut line 151.
 (pdftex.def)             Requested size: 378.41283pt x 235.88068pt.
-<./figure/../Bilder/pasted image 0 (9).png, id=309, 1212.53pt x 872.25874pt>
+<./figure/../Bilder/pasted image 0 (9).png, id=311, 1212.53pt x 872.25874pt>
 File: ./figure/../Bilder/pasted image 0 (9).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (9).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (9).png  used on inp
 ut line 155.
 (pdftex.def)             Requested size: 398.33858pt x 286.55524pt.
-<./figure/../Bilder/pasted image 0 (10).png, id=310, 395.4775pt x 252.945pt>
+<./figure/../Bilder/pasted image 0 (10).png, id=312, 395.4775pt x 252.945pt>
 File: ./figure/../Bilder/pasted image 0 (10).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (10).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (10).png  used on in
 put line 159.
 (pdftex.def)             Requested size: 398.33858pt x 254.7777pt.
-<./figure/../Bilder/pasted image 0 (11).png, id=311, 395.4775pt x 264.99pt>
+<./figure/../Bilder/pasted image 0 (11).png, id=313, 395.4775pt x 264.99pt>
 File: ./figure/../Bilder/pasted image 0 (11).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (11).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (11).png  used on in
 put line 168.
 (pdftex.def)             Requested size: 398.33858pt x 266.90996pt.
-<./figure/../Bilder/pasted image 0.png, id=312, 613.29124pt x 398.48875pt>
+<./figure/../Bilder/pasted image 0.png, id=314, 613.29124pt x 398.48875pt>
 File: ./figure/../Bilder/pasted image 0.png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0.png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0.png  used on input l
@@ -1680,19 +1675,19 @@ ine 175.
 d image 0 (9).png> <./figure/../Bilder/pasted image 0 (10).png>] [18 <./figure/
 ../Bilder/pasted image 0 (11).png>] [19 <./figure/../Bilder/pasted image 0.png>
 ]
-<./figure/../Bilder/pasted image 0 (1).png, id=331, 715.67375pt x 87.32625pt>
+<./figure/../Bilder/pasted image 0 (1).png, id=333, 715.67375pt x 87.32625pt>
 File: ./figure/../Bilder/pasted image 0 (1).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (1).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (1).png  used on inp
 ut line 196.
 (pdftex.def)             Requested size: 398.33858pt x 48.60521pt.
-<./figure/../Bilder/pasted image 0 (2).png, id=332, 582.175pt x 108.405pt>
+<./figure/../Bilder/pasted image 0 (2).png, id=334, 582.175pt x 108.405pt>
 File: ./figure/../Bilder/pasted image 0 (2).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (2).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (2).png  used on inp
 ut line 203.
 (pdftex.def)             Requested size: 398.33858pt x 74.17426pt.
-<./figure/../Bilder/pasted image 0 (3).png, id=333, 587.19376pt x 171.64125pt>
+<./figure/../Bilder/pasted image 0 (3).png, id=335, 587.19376pt x 171.64125pt>
 File: ./figure/../Bilder/pasted image 0 (3).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (3).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (3).png  used on inp
@@ -1703,7 +1698,7 @@ ge 0 (2).png>]
 Package acronym Info: Label `acro:RMSE' newly defined as it shall be overridden
 
 although it is yet undefined on input line 219.
-<./figure/../Bilder/imageLikeEmbed.png, id=342, 1204.5pt x 744.7825pt>
+<./figure/../Bilder/imageLikeEmbed.png, id=344, 1204.5pt x 744.7825pt>
 File: ./figure/../Bilder/imageLikeEmbed.png Graphic file (type png)
 <use ./figure/../Bilder/imageLikeEmbed.png>
 Package pdftex.def Info: ./figure/../Bilder/imageLikeEmbed.png  used on input l
@@ -1711,43 +1706,67 @@ ine 230.
 (pdftex.def)             Requested size: 398.33858pt x 246.30174pt.
  [21 <./figure/../Bilder/pasted image 0 (3).png>] [22 <./figure/../Bilder/image
 LikeEmbed.png>]
-<./figure/../Bilder/pasted image 0 (4).png, id=357, 547.04375pt x 35.13126pt>
+<./figure/../Bilder/pasted image 0 (4).png, id=358, 547.04375pt x 35.13126pt>
 File: ./figure/../Bilder/pasted image 0 (4).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (4).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (4).png  used on inp
 ut line 253.
 (pdftex.def)             Requested size: 398.33858pt x 25.58179pt.
-<./figure/../Bilder/pasted image 0 (5).png, id=358, 704.6325pt x 17.06375pt>
+<./figure/../Bilder/pasted image 0 (5).png, id=359, 704.6325pt x 17.06375pt>
 File: ./figure/../Bilder/pasted image 0 (5).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (5).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (5).png  used on inp
 ut line 260.
 (pdftex.def)             Requested size: 398.33858pt x 9.64622pt.
-<./figure/../Bilder/pasted image 0 (6).png, id=359, 445.665pt x 18.0675pt>
+<./figure/../Bilder/pasted image 0 (6).png, id=360, 445.665pt x 18.0675pt>
 File: ./figure/../Bilder/pasted image 0 (6).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (6).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (6).png  used on inp
 ut line 264.
 (pdftex.def)             Requested size: 278.83578pt x 11.30428pt.
-<./figure/../Bilder/pasted image 0 (7).png, id=360, 432.61626pt x 96.36pt>
+<./figure/../Bilder/pasted image 0 (7).png, id=361, 432.61626pt x 96.36pt>
 File: ./figure/../Bilder/pasted image 0 (7).png Graphic file (type png)
 <use ./figure/../Bilder/pasted image 0 (7).png>
 Package pdftex.def Info: ./figure/../Bilder/pasted image 0 (7).png  used on inp
 ut line 272.
 (pdftex.def)             Requested size: 278.83578pt x 62.1098pt.
- [23 <./figure/../Bilder/pasted image 0 (4).png> <./figure/../Bilder/pasted ima
-ge 0 (5).png>] [24 <./figure/../Bilder/pasted image 0 (6).png> <./figure/../Bil
-der/pasted image 0 (7).png>] [25]
+ [23 <./figure/../Bilder/pasted image 0 (4).png>] [24 <./figure/../Bilder/paste
+d image 0 (5).png> <./figure/../Bilder/pasted image 0 (6).png> <./figure/../Bil
+der/pasted image 0 (7).png>] [25] [26]
 chapter 8.
-[26
+[27
 
-]) [27] (thesis.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
-[]\T1/ptm/m/n/12 ``Medium ran-dom fo-rest,'' [][]$https : / / medium . com / @w
-illiamkoehrsen /
+]) [28] (thesis.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+[][]$\T1/ptm/m/n/12 https : / / www . daimler . com / karriere / ueber-[]uns / 
+articial-[]intelligence / fuer-[]nerds /
  []
 
-) [28
+
+Underfull \hbox (badness 1571) in paragraph at lines 40--42
+[]\T1/ptm/m/n/12 Unknown, ``Sci-kit-learn,'' [][]$https : / / scikit-[]learn . 
+org / stable / index . html$[][], ac-ces-sed:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+[]\T1/ptm/m/n/12 W. Koehr-sen, ``Me-di-um ran-dom fo-rest,'' [][]$https : / / m
+edium . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+\T1/ptm/m/n/12 @williamkoehrsen / random-[]forest-[]simple-[]explanation-[]3778
+95a60d2d$[][], ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+\T1/ptm/m/n/12 com / ageron / handson-[]ml2 / master / datasets / housing / hou
+sing . tgz$[][], ac-ces-sed:
+ []
+
+) [29
 
 
 
@@ -1767,10 +1786,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
  )
 (\end occurred when \ifdefined on line 32 was incomplete) 
 Here is how much of TeX's memory you used:
- 38409 strings out of 492484
- 721117 string characters out of 3123430
- 1068254 words of memory out of 3000000
- 41944 multiletter control sequences out of 15000+200000
+ 38414 strings out of 492484
+ 721169 string characters out of 3123430
+ 1069255 words of memory out of 3000000
+ 41947 multiletter control sequences out of 15000+200000
  578630 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,11n,93p,10103b,600s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1790,9 +1809,9 @@ tmb8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Robin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on thesis.pdf (35 pages, 1040944 bytes).
+Output written on thesis.pdf (36 pages, 1044128 bytes).
 PDF statistics:
- 559 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
  515 words of extra memory for PDF output out of 10000 (max. 10000000)
 
